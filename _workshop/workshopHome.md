@@ -13,7 +13,7 @@ intro:
 
 notificationTitle:
   - title: "Workshop Announcements - Summer 2021 Learn to Code"
-  - image_path: /assets/images/2021LearnToCode.jpg
+  - image_path: /assets/images/2021LearnToCode.png
     alt: "placeholder image 0"
     title: "2021 Coding Sessions"
 
@@ -65,9 +65,11 @@ testimonials:
 
 {% include feature_row id="intro" type="center" %}
 
+[Link to register for the 2021 Learn to Code Summer Sessions](https://docs.google.com/forms/d/e/1FAIpQLSfyQB3zclannvqJ2dxWz8q1saBaIT1E6D1SjbRR7aP0aUMU3Q/viewform)
+
 {% include feature_row id="notificationTitle" type="center" %}
 
-[Link to register for the 2021 Learn to Code Summer Sessions](https://docs.google.com/forms/d/e/1FAIpQLSfyQB3zclannvqJ2dxWz8q1saBaIT1E6D1SjbRR7aP0aUMU3Q/viewform)'
+[Link to register for the 2021 Learn to Code Summer Sessions](https://docs.google.com/forms/d/e/1FAIpQLSfyQB3zclannvqJ2dxWz8q1saBaIT1E6D1SjbRR7aP0aUMU3Q/viewform)
 
 For additional outreach opportunities at the Marine Science Center at Northeastern University please visit our [outreach webpage](https://cos.northeastern.edu/marinescience/outreach/) or contact our Outreach Program Coordinator, Sierra Muñoz ([mscoutreach@northeastern.edu](mscoutreach@northeastern.edu)).
 
