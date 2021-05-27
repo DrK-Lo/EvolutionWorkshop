@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /workshopHome/
+permalink: /cworkshop/
 title: "Annual Workshops"
 
 header:
