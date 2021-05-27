@@ -13,9 +13,11 @@ intro:
 
 notificationTitle:
   - title: "Workshop Announcements - Summer 2021 Learn to Code"
+  - excerpt: '[Link to register for the 2021 Learn to Code Summer Sessions](https://docs.google.com/forms/d/e/1FAIpQLSfyQB3zclannvqJ2dxWz8q1saBaIT1E6D1SjbRR7aP0aUMU3Q/viewform)'
   - image_path: /assets/images/2021LearnToCode.png
     alt: "placeholder image 0"
     title: "2021 Coding Sessions"
+
 
 pastWorkshop:
   - title: "Past Workshops"
