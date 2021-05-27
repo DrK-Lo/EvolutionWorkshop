@@ -160,6 +160,7 @@ include:
   - _scientists
   - _activities
   - _workshop
+  - _cworkshop
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
