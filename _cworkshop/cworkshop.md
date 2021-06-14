@@ -22,4 +22,7 @@ Tuesdays from 4:30-6pm, July 6, Aug 10 2021
 | ---- | ---- | ----- |
 | x | y | z|
 
+### Specific Instructions for X:
+
+
 # Week 2: (Date)
