@@ -29,6 +29,7 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Overview of coding lingo | 10 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
 | Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below|
+| Overview of what you will learn in this workshop | 10 min | |
 | Intro to Scratch | 5 min | |
 
 ### Overview of coding lingo
@@ -66,6 +67,8 @@ In order to login into Duo with your new Northeastern Account, call Northeastern
 #### Part 5: 
 Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/get_access.html) to get a sponsored Discovery account in addition to a sponsored NEU ID
 
+### Overview of these summer sessions
+[Katie will provide slides]
 
 
 ### Intro to scratch
