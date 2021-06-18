@@ -28,13 +28,19 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Online icebreaker | 15 min | |
 | Overview of coding lingo | 10 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Scratch accounts | 5 min | Sign up at scratch.mit.edu. |
+| Scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below|
 | NU accounts | 20 min | Walk through first steps in getting an HPC account. |
 | Intro to Scratch | 5 min | |
 
 ### Specific instructions for getting NU accounts:
 
-The full process is outlined at https://drk-lo.github.io/lotterhoslabprotocols/discovery_nonNEUpersonnel/.
+* First, go to [this link](https://neuidm.neu.edu/idm/user/anonWorkItemEdit.jsp?id=%23ID%231BB3%3A6A4DDE91A71%3A6E9D5ED3%3A37A0A4D3B08A421D#_ga=2.112924996.1377559192.1624038915-419605191.1623692929) and enter the required personal information. 
+* For "Job Title" select "Coding sessions student"
+* For "Role" select "Student employee"
+* For "University email required" select "No"
+* For "NUNet Account Required" select "No"
+* For "Sponsor's Last Name" put "Lotterhos"
+* Select the "Continue" Button 
 
 
 # Week 2: Learn to code in Scratch (July 13)
