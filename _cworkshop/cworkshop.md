@@ -41,6 +41,7 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 
 ### Specific instructions for getting NU accounts
 
+Part 1:
 * First, go to [this link](https://neuidm.neu.edu/idm/user/anonWorkItemEdit.jsp?id=%23ID%231BB3%3A6A4DDE91A71%3A6E9D5ED3%3A37A0A4D3B08A421D#_ga=2.112924996.1377559192.1624038915-419605191.1623692929) and enter the required personal information. 
 * For "Job Title" select "Coding sessions student"
 * For "Role" select "Student employee"
@@ -48,6 +49,21 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 * For "NUNet Account Required" select "No"
 * For "Sponsor's Last Name" put "Lotterhos"
 * Select the "Continue" Button 
+* Submit the application
+
+Part 2: 
+* Dr. Lotterhos will approve your application after you submit it.
+* Follow the steps in any emails you recieve after approval
+
+The following steps will be completed after class:
+
+Part 3: Download Duo Two Factor Authentication App from the App Store. (If you don't have a smart phone, it's OK! just let us know)
+
+Part 4: In order to login into Duo with your new Northeastern Account, call Northeastern IT to set up Duo access with them: 617.373.4357
+
+Part 5: submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/get_access.html) to get a sponsored Discovery account in addition to a sponsored NEU ID
+
+
 
 ### Intro to scratch
 *Dylan will create slides and provide link*
