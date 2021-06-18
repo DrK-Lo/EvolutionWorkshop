@@ -79,13 +79,16 @@ Maybe animate your initials?
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Scratch accounts | 5 min | Make a Scratch account if you didn't have time last week: scratch.mit.edu. |
-| Intro to Scratch | 10 min | Watch tutorial at https://scratch.mit.edu/projects/editor/?tutorial=all. |
-| Animate a character - group challenge | 20 min | Link to instructions is below. |
-| Scratch challenge | 15 min | Get your character to navigate around an object! |
+| Accounts | 15 min | Continue getting accounts set up |
+| Intro to Scratch | 10 min | See details below |
+| Animate a character - group challenge | 15 min | Link to instructions is below. |
+| Paired programming - Scratch challenge 1 | 15 min | Get your character to navigate around an object! |
+| Paired programming - Scratch challenge 2 | 15 min | A more challenging task |
+| Solutions for challenge 1 and 2 | 15 min | Explore paired solutions |
 
 ### Intro to Scratch
 *Dylan will create slides and provide link*
+[Watch tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all)
 - motion
 - looks
 - sound
