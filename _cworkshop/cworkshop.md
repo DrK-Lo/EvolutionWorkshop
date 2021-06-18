@@ -28,7 +28,7 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Online icebreaker | 15 min | |
 | Overview of coding lingo | 10 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below|
+| Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below|
 | Intro to Scratch | 5 min | |
 
 ### Overview of coding lingo
@@ -36,6 +36,8 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 
 - operators
 - variables
+- if else
+- 
 
 ### Specific instructions for getting NU accounts
 
@@ -48,7 +50,8 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 * Select the "Continue" Button 
 
 ### Intro to scratch
-To do
+*Dylan will create slides and provide link*
+Maybe animate your initials?
 
 
 # Week 2: Learn to code in Scratch (July 13)
@@ -59,7 +62,7 @@ To do
 | ---- | ---- | ----- |
 | Scratch accounts | 5 min | Make a Scratch account if you didn't have time last week: scratch.mit.edu. |
 | Intro to Scratch | 10 min | Watch tutorial at https://scratch.mit.edu/projects/editor/?tutorial=all. |
-| Animate a character | 30 min | Link to instructions is below. |
+| Animate a character - group challenge | 20 min | Link to instructions is below. |
 | Scratch challenge | 15 min | Get your character to navigate around an object! |
 
 ### Intro to Scratch
@@ -73,11 +76,21 @@ To do
 - operators
 - variables
 
-### Specific instructions for Animate-a-character:
+### Animate a character - group challenge
 
 "Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.
 The full lesson is on page 9 of https://resources.scratch.mit.edu/www/guides/en/EducatorGuidesAll.pdf.
 
+*Dylan will create and provide link*
+
+### Animate a character - paired challenge
+(We need to set up a specific challenge - e.g. 
+
+Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, 98 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions).
+
+Your second challenge is that after the first sprite is finished successfully navigating, to make your first sprite move to 20 random positions around the board with the control that if your first sprite touches the second sprite, a sound is played. For this challenge, switch roles of driver and navigator.
+
+If you finish both challenges, create something that will surprise us!
 
 # Week 3: Northeastern's HPC (July 20)
 
