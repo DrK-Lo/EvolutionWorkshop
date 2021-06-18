@@ -86,9 +86,9 @@ The full lesson is on page 9 of https://resources.scratch.mit.edu/www/guides/en/
 ### Animate a character - paired challenge
 (We need to set up a specific challenge - e.g. 
 
-Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions).
+Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions). [link to solution in a google slide]()
 
-Your second challenge is that after the first sprite is finished successfully navigating, to make your first sprite move to 20 random positions around the board with the control that if your first sprite touches the second sprite, a sound is played. For this challenge, switch roles of driver and navigator.
+Your second challenge is that after the first sprite is finished successfully navigating, to make your second sprite (now the mover) move to 20 random positions around the board with the control that if sprites touch (now the first sprite is the stationary object), a sound is played. For this challenge, switch roles of driver and navigator. [link to solution in a google slide]()
 
 If you finish both challenges, create something that will surprise us!
 
