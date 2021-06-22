@@ -32,10 +32,11 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Online icebreaker | 15 min | |
 | Overview of coding lingo | 10 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below |
-| Intro to Scratch | 5 min | Work in breakout rooms |
+| Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu](scratch.mit.edu) and for NU see intructions below|
+| Overview of what you will learn in this workshop | 10 min | |
+| Intro to Scratch | 5 min | |
 
-### Overview of coding lingo
+### Overview of these summer sessions & coding lingo
 [https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM/]
 
 ### Specific instructions for getting NU accounts
@@ -66,7 +67,6 @@ In order to login into Duo with your new Northeastern Account, call Northeastern
 Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/get_access.html) to get a sponsored Discovery account in addition to a sponsored NEU ID
 
 ### Intro to Scratch: Animate a Name!
-
 1) Watch "Animate a Name" tutorial at [https://scratch.mit.edu/projects/editor/?tutorial=all].
 2) Decide whether to animate your name, your initials, or another name!
 3) Follow the steps [here](link to slides).
@@ -77,13 +77,16 @@ Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/ge
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Account setup | 15 min | Continue the process of making an HPC account; make a Scratch account if you didn't have time last week: scratch.mit.edu |
-| Intro to Scratch | 10 min | Watch "Animate a Character" tutorial at [https://scratch.mit.edu/projects/editor/?tutorial=all]. |
-| Animate a character (group challenge) | 20 min | Link to instructions is below. |
-| Pair challenge | 15 min | Get your character to navigate around an object! |
+| Accounts | 15 min | Continue getting accounts set up |
+| Intro to Scratch | 10 min | See details below. |
+| Animate a character (group challenge) | 15 min | Link to instructions is below. |
+| Pair challenge 1 | 15 min | Get your character to navigate around an object! |
+| Pair challenge 2 | 15 min | A more challenging task! |
+| Solutions for challenge 1 and 2 | 15 min | Explore paired solutions |
 
 ### Intro to Scratch
 *Dylan will create slides and provide link*
+[Watch tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all).
 - motion
 - looks
 - sound
