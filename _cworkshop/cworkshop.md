@@ -28,8 +28,7 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Introduction and icebreaker | 25 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
 | Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu](scratch.mit.edu) and for NU see intructions below|
-| Overview of what you will learn in this workshop | 10 min | |
-| Intro to Scratch | 5 min | |
+| Intro to Scratch | 15 min | |
 
 ### Overview of coding lingo and blindfold exercise
 [Introductory slides](https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM/edit#slide=id.gde0af0d93b_0_546)
