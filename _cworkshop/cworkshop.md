@@ -96,11 +96,13 @@ Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/ge
 - operators
 - variables
 
-### Animate a character - group challenge
+### Animate a character (group challenge)
 
 1) Go to this website
 2) Click on... [image]
 3) Write out challenge
+
+***Use at least one control and two...
 
 "Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.  
 
