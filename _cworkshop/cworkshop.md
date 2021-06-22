@@ -29,15 +29,13 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Online icebreaker | 15 min | |
-| Overview of coding lingo | 10 min | |
+| Introduction and icebreaker | 25 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
 | Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu](scratch.mit.edu) and for NU see intructions below|
-| Overview of what you will learn in this workshop | 10 min | |
-| Intro to Scratch | 5 min | |
+| Intro to Scratch | 15 min | |
 
-### Overview of these summer sessions & coding lingo
-[https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM/]
+### Overview of coding lingo and blindfold exercise
+[Introductory slides](https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM)
 
 ### Specific instructions for getting NU accounts
 
@@ -71,6 +69,7 @@ Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/ge
 2) Decide whether to animate your name, your initials, or another name!
 3) Follow the steps [here](link to slides).
 
+
 # Week 2: Learn to code in Scratch (July 13)
 
 *Overview:* Put last week's analogy into practice and become familiar with coding basics by learning to code in Scratch.
@@ -78,15 +77,15 @@ Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/ge
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Accounts | 15 min | Continue getting accounts set up |
-| Intro to Scratch | 10 min | See details below. |
-| Animate a character (group challenge) | 15 min | Link to instructions is below. |
+| Intro to Scratch & Animate a Character (group challenge) | 10 min | See details below. |
+|  | 15 min | Link to instructions is below. |
 | Pair challenge 1 | 15 min | Get your character to navigate around an object! |
 | Pair challenge 2 | 15 min | A more challenging task! |
 | Solutions for challenge 1 and 2 | 15 min | Explore paired solutions |
 
-### Intro to Scratch
-*Dylan will create slides and provide link*
+### Animate a Character (group challenge)
 [Watch tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all).
+
 - motion
 - looks
 - sound
@@ -96,28 +95,22 @@ Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/ge
 - operators
 - variables
 
-### Animate a character (group challenge)
-
 1) Go to this website
 2) Click on... [image]
 3) Write out challenge
 
 ***Use at least one control and two...
 
-"Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.  
+"Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.
 
-########## The full lesson is on page 9 of https://resources.scratch.mit.edu/www/guides/en/EducatorGuidesAll.pdf.
+### Animate a Character (paired challenges)
 
-*Dylan will create and provide link*
+Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions). [link to solution]()
 
-### Animate a character - paired challenge
-(We need to set up a specific challenge - e.g. 
-
-Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions). [link to solution in a google slide]()
-
-Your second challenge is that after the first sprite is finished successfully navigating, to make your second sprite (now the mover) move to 20 random positions around the board with the control that if sprites touch (now the first sprite is the stationary object), a sound is played. For this challenge, switch roles of driver and navigator. [link to solution in a google slide]()
+Your second challenge is that after the first sprite is finished successfully navigating, to make your second sprite (now the mover) move to 20 random positions around the board with the control that if sprites touch (now the first sprite is the stationary object), a sound is played. For this challenge, switch roles of driver and navigator. [link to solution]()
 
 If you finish both challenges, create something that will surprise us!
+
 
 # Week 3: Northeastern's HPC (July 20)
 
@@ -125,7 +118,13 @@ If you finish both challenges, create something that will surprise us!
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| x | y | z|
+| Get started on the HPC | 20 minutes | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#)|
+| Introduction to Swirl()  *1:* Basic Building Blocks *2:* Workspace and Files| 30 minutes | [link]()|
+| Today's Challenge | 20 minutes | [link]()|
+
+[Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#)
+
+Create a challenge based on the first two swirl() exercises
 
 ### Specific instructions for X:
 
@@ -138,6 +137,10 @@ If you finish both challenges, create something that will surprise us!
 | ---- | ---- | ----- |
 | x | y | z|
 
+3: Sequences of Numbers    
+ 4: Vectors                    5: Missing Values             6: Subsetting Vectors
+ 7: Matrices and Data Frames
+
 ### Specific instructions for X:
 
 
@@ -148,6 +151,8 @@ If you finish both challenges, create something that will surprise us!
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | x | y | z|
+
+ 15: Base Graphics 
 
 ### Specific instructions for X:
 
