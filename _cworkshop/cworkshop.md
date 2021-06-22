@@ -112,7 +112,7 @@ If you finish both challenges, create something that will surprise us!
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Get started on the HPC | 20 minutes | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#)|
-| Introduction to Swirl()  *1:* Basic Building Blocks *2:* Workspace and Files| 20 minutes | [link]()|
+| Introduction to Swirl()  *1:* Basic Building Blocks *2:* Workspace and Files| 30 minutes | [link]()|
 | Today's Challenge | 20 minutes | [link]()|
 
 [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#)
