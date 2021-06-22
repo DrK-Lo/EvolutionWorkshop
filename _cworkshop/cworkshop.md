@@ -75,15 +75,15 @@ Maybe animate your initials?
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Accounts | 15 min | Continue getting accounts set up |
-| Intro to Scratch | 10 min | See details below |
-| Animate a character - group challenge | 15 min | Link to instructions is below. |
+| Intro to Scratch and Animate a character - group challenge | 10 min | See details below |
 | Paired programming - Scratch challenge 1 | 15 min | Get your character to navigate around an object! |
 | Paired programming - Scratch challenge 2 | 15 min | A more challenging task |
 | Solutions for challenge 1 and 2 | 15 min | Explore paired solutions |
 
-### Intro to Scratch
-*Dylan will create slides and provide link*
+### Intro to Scratch and Animate a character - group challenge
+
 [Watch tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all)
+
 - motion
 - looks
 - sound
@@ -93,7 +93,6 @@ Maybe animate your initials?
 - operators
 - variables
 
-### Animate a character - group challenge
 "Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.
 
 *Dylan will create and provide link*
