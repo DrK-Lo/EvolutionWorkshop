@@ -25,8 +25,7 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Online icebreaker | 15 min | |
-| Overview of coding lingo | 10 min | |
+| Introduction and icebreaker | 25 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
 | Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu](scratch.mit.edu) and for NU see intructions below|
 | Overview of what you will learn in this workshop | 10 min | |
