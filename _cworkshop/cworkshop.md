@@ -32,13 +32,9 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Overview of what you will learn in this workshop | 10 min | |
 | Intro to Scratch | 5 min | |
 
-### Overview of coding lingo
-[Katie will provide slides]
+### Overview of coding lingo and blindfold exercise
+[Introductory slides](https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM/edit#slide=id.gde0af0d93b_0_546)
 
-- operators
-- variables
-- if else
-- 
 
 ### Specific instructions for getting NU accounts
 
@@ -67,8 +63,6 @@ In order to login into Duo with your new Northeastern Account, call Northeastern
 #### Part 5: 
 Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/get_access.html) to get a sponsored Discovery account in addition to a sponsored NEU ID
 
-### Overview of these summer sessions
-[Katie will provide slides]
 
 
 ### Intro to scratch
@@ -102,9 +96,7 @@ Maybe animate your initials?
 - variables
 
 ### Animate a character - group challenge
-
 "Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.
-The full lesson is on page 9 of https://resources.scratch.mit.edu/www/guides/en/EducatorGuidesAll.pdf.
 
 *Dylan will create and provide link*
 
@@ -123,7 +115,13 @@ If you finish both challenges, create something that will surprise us!
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| x | y | z|
+| Get started on the HPC | 20 minutes | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#)|
+| Introduction to Swirl()  *1:* Basic Building Blocks *2:* Workspace and Files| 20 minutes | [link]()|
+| Today's Challenge | 20 minutes | [link]()|
+
+[Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#)
+
+Create a challenge based on the first two swirl() exercises
 
 ### Specific instructions for X:
 
@@ -136,6 +134,10 @@ If you finish both challenges, create something that will surprise us!
 | ---- | ---- | ----- |
 | x | y | z|
 
+3: Sequences of Numbers    
+ 4: Vectors                    5: Missing Values             6: Subsetting Vectors
+ 7: Matrices and Data Frames
+
 ### Specific instructions for X:
 
 
@@ -146,6 +148,8 @@ If you finish both challenges, create something that will surprise us!
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | x | y | z|
+
+ 15: Base Graphics 
 
 ### Specific instructions for X:
 
