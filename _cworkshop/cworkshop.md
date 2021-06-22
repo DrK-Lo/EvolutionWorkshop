@@ -11,9 +11,13 @@ header:
 
 # Instructors
 
-Dr. Katie Lotterhos, Associate Professor of Marine & Environmental Sciences
+Dr. Katie Lotterhos
+Associate Professor of Marine & Environmental Sciences
+Northeastern University
 
-me?
+Dylan Titmuss
+B.S. Ecology and Evolutionary Biology
+Northeastern University
 
 # Dates
 
@@ -28,26 +32,21 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 | Online icebreaker | 15 min | |
 | Overview of coding lingo | 10 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below|
-| Intro to Scratch | 5 min | |
+| Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu] and for NU see intructions below |
+| Intro to Scratch | 5 min | Work in breakout rooms |
 
 ### Overview of coding lingo
-[Katie will provide slides]
-
-- operators
-- variables
-- if else
-- 
+[https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM/]
 
 ### Specific instructions for getting NU accounts
 
 #### Part 1:
 * First, go to [this link](https://neuidm.neu.edu/idm/user/anonWorkItemEdit.jsp?id=%23ID%231BB3%3A6A4DDE91A71%3A6E9D5ED3%3A37A0A4D3B08A421D#_ga=2.112924996.1377559192.1624038915-419605191.1623692929) and enter the required personal information. 
-* For "Job Title" select "Coding sessions student"
-* For "Role" select "Student employee"
-* For "University email required" select "No"
-* For "NUNet Account Required" select "No"
-* For "Sponsor's Last Name" put "Lotterhos"
+* For "Job Title", select "Coding sessions student"
+* For "Role", select "Student employee"
+* For "University email required", select "No"
+* For "NUNet Account Required", select "No"
+* For "Sponsor's Last Name", put "Lotterhos"
 * Select the "Continue" Button 
 * Submit the application
 
@@ -58,7 +57,7 @@ The following steps will be completed after class:
 * Follow the steps in any emails you recieve after approval
 
 #### Part 3: 
-Download Duo Two Factor Authentication App from the App Store. (If you don't have a smart phone, it's OK! just let us know)
+Download Duo Two Factor Authentication App from the App Store. (If you don't have a smart phone, it's OK! Just let us know.)
 
 #### Part 4: 
 In order to login into Duo with your new Northeastern Account, call Northeastern IT to set up Duo access with them: 617.373.4357
@@ -66,12 +65,11 @@ In order to login into Duo with your new Northeastern Account, call Northeastern
 #### Part 5: 
 Submit a second [form](https://rc-docs.northeastern.edu/en/latest/get_started/get_access.html) to get a sponsored Discovery account in addition to a sponsored NEU ID
 
+### Intro to Scratch: Animate a Name!
 
-
-### Intro to scratch
-*Dylan will create slides and provide link*
-Maybe animate your initials?
-
+1) Watch "Animate a Name" tutorial at [https://scratch.mit.edu/projects/editor/?tutorial=all].
+2) Decide whether to animate your name, your initials, or another name!
+3) Follow the steps [here](link to slides).
 
 # Week 2: Learn to code in Scratch (July 13)
 
@@ -79,10 +77,10 @@ Maybe animate your initials?
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Scratch accounts | 5 min | Make a Scratch account if you didn't have time last week: scratch.mit.edu. |
-| Intro to Scratch | 10 min | Watch tutorial at https://scratch.mit.edu/projects/editor/?tutorial=all. |
-| Animate a character - group challenge | 20 min | Link to instructions is below. |
-| Scratch challenge | 15 min | Get your character to navigate around an object! |
+| Account setup | 15 min | Continue the process of making an HPC account; make a Scratch account if you didn't have time last week: scratch.mit.edu |
+| Intro to Scratch | 10 min | Watch "Animate a Character" tutorial at [https://scratch.mit.edu/projects/editor/?tutorial=all]. |
+| Animate a character (group challenge) | 20 min | Link to instructions is below. |
+| Pair challenge | 15 min | Get your character to navigate around an object! |
 
 ### Intro to Scratch
 *Dylan will create slides and provide link*
@@ -97,8 +95,13 @@ Maybe animate your initials?
 
 ### Animate a character - group challenge
 
-"Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.
-The full lesson is on page 9 of https://resources.scratch.mit.edu/www/guides/en/EducatorGuidesAll.pdf.
+1) Go to this website
+2) Click on... [image]
+3) Write out challenge
+
+"Animation cards" are here: https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf.  
+
+########## The full lesson is on page 9 of https://resources.scratch.mit.edu/www/guides/en/EducatorGuidesAll.pdf.
 
 *Dylan will create and provide link*
 
