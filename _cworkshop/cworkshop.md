@@ -98,7 +98,6 @@ Maybe animate your initials?
 *Dylan will create and provide link*
 
 ### Animate a character - paired challenge
-(We need to set up a specific challenge - e.g. 
 
 Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions). [link to solution in a google slide]()
 
