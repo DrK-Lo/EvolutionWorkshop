@@ -67,10 +67,10 @@ In order to login into Duo with your new Northeastern Account, call Northeastern
 Submit a second [form](https://bit.ly/NURC-AccessRequest) to get a sponsored Discovery account in addition to a sponsored NEU ID.
 
 ### Intro to Scratch: Animate a Name!
-1) Click on the "Animate a Name" challenge on the [website](https://scratch.mit.edu/projects/editor/?tutorial=all).
-~[image](https://lh3.googleusercontent.com/xxnrOVrtLaY0IhYTxD_pjy5euoMB2uA4UfFJNE928fDhfj6s0kY3Zv7-wkHM8qu6ez9LxNDwKUpuiRY59LPP5w2CRKWn9Yc1-uOko_nJUfHvk-pWjUhLRXtvbOW0nnj25EKwINEdijM)
-2) Watch the tutorial.
-3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)
+1) Click on the "Animate a Name" challenge on the [website](https://scratch.mit.edu/projects/editor/?tutorial=all).  
+![image](https://lh3.googleusercontent.com/xxnrOVrtLaY0IhYTxD_pjy5euoMB2uA4UfFJNE928fDhfj6s0kY3Zv7-wkHM8qu6ez9LxNDwKUpuiRY59LPP5w2CRKWn9Yc1-uOko_nJUfHvk-pWjUhLRXtvbOW0nnj25EKwINEdijM)  
+2) Watch the tutorial.  
+3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)  
 4) Use at least one type of control and two types of motions, looks, or sounds to animate your initials/name/word of choice!
 
 For help with the specific functions, Scratch's "animation cards" are [here](https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf).
@@ -93,9 +93,9 @@ For help with the specific functions, Scratch's "animation cards" are [here](htt
 ### Animate a Character (group challenge)
 
 1) Click on the "Animate a Character" challenge on the [website](https://scratch.mit.edu/projects/editor/?tutorial=all).
-~[image](https://lh4.googleusercontent.com/gCQS9XzsbAktkx7hgD2b8x9_jvGv0eWmCRS_5iSPRGxZWG19lW3Ak_oAVwNGUiPJseyncs011aoG27s8-Kzhyorh6Pl9K4QsOQfUMA68PWKPHa_z27CuPRt0KAMqAhOczKtXqdpmFJg)
-2) Watch the tutorial.
-3) Use at least one type of *sensing* control and two types of motions, looks, or sounds to animate your character!
+![image](https://lh4.googleusercontent.com/gCQS9XzsbAktkx7hgD2b8x9_jvGv0eWmCRS_5iSPRGxZWG19lW3Ak_oAVwNGUiPJseyncs011aoG27s8-Kzhyorh6Pl9K4QsOQfUMA68PWKPHa_z27CuPRt0KAMqAhOczKtXqdpmFJg)  
+2) Watch the tutorial.  
+3) Use at least one type of *sensing* control and two types of motions, looks, or sounds to animate your character!  
 
 For help with the specific functions, Scratch's "animation cards" are [here](https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf).
 
