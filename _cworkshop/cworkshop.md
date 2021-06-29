@@ -11,13 +11,13 @@ header:
 
 # Instructors
 
-![](https://lh4.googleusercontent.com/PfmqdxPov8hl9Qi8OiQSUnE01hXZ-8VDLPTHZRdoZLf9kj-YQ2XyChXSNQM-EndydkERpzh_oFiLB-lKueLrEABDrb1gRaa60jwFvLnFKGi_ZbD0=w1280)  
+![image](https://lh4.googleusercontent.com/PfmqdxPov8hl9Qi8OiQSUnE01hXZ-8VDLPTHZRdoZLf9kj-YQ2XyChXSNQM-EndydkERpzh_oFiLB-lKueLrEABDrb1gRaa60jwFvLnFKGi_ZbD0=w1280)  
 Dr. Katie Lotterhos  
 Associate Professor of Marine & Environmental Sciences  
 Northeastern University
 
-![](https://lh4.googleusercontent.com/rJ6MzVWubaHP2D8HQoaUmjc_OkP3HVVbOwfg-uT-B6KVCjTbkYF-wKI75C1fNUK50hZJf2ZbReeRVNi7kEId1K7IIqWlidiIfNVIp76RyEhz-fuVzHzFIIhLpG5mHsmX8A=w1280)  
-Dylan Titmuss
+![image](https://lh4.googleusercontent.com/rJ6MzVWubaHP2D8HQoaUmjc_OkP3HVVbOwfg-uT-B6KVCjTbkYF-wKI75C1fNUK50hZJf2ZbReeRVNi7kEId1K7IIqWlidiIfNVIp76RyEhz-fuVzHzFIIhLpG5mHsmX8A=w1280)  
+Dylan Titmuss  
 B.S. Ecology and Evolutionary Biology  
 Northeastern University
 
@@ -95,7 +95,7 @@ For help with the specific functions, Scratch's "animation cards" are [here](htt
 1) Click on the "Animate a Character" challenge on the [website](https://scratch.mit.edu/projects/editor/?tutorial=all).
 ![image](https://lh4.googleusercontent.com/gCQS9XzsbAktkx7hgD2b8x9_jvGv0eWmCRS_5iSPRGxZWG19lW3Ak_oAVwNGUiPJseyncs011aoG27s8-Kzhyorh6Pl9K4QsOQfUMA68PWKPHa_z27CuPRt0KAMqAhOczKtXqdpmFJg)  
 2) Watch the tutorial.  
-3) Use at least one type of *sensing* control and two types of motions, looks, or sounds to animate your character!  
+3) Together, let's animate a character! Our first challenge will be to use at least one type of *sensing* control and two types of motions, looks, or sounds to animate our character.
 
 For help with the specific functions, Scratch's "animation cards" are [here](https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf).
 
