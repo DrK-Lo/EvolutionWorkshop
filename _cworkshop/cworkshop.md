@@ -42,7 +42,7 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 ### Specific instructions for getting NU accounts
 
 #### Part 1:
-* First, go to [this link](https://neuidm.neu.edu/idm/user/anonWorkItemEdit.jsp?id=%23ID%231BB3%3A6A4DDE91A71%3A6E9D5ED3%3A37A0A4D3B08A421D#_ga=2.112924996.1377559192.1624038915-419605191.1623692929) and enter the required personal information. 
+* First, go to [this link](https://service.northeastern.edu/tech?id=kb_article&sys_id=4c274bc71b28701026c26391b24bcbba#_ga=2.261705037.1569047752.1624901675-419605191.1623692929) and click on "Apply for a sponsored account using the online form."
 * For "Job Title", select "Coding sessions student"
 * For "Role", select "Student employee"
 * For "University email required", select "No"
