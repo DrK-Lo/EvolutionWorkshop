@@ -42,14 +42,16 @@ Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
 ### Specific instructions for getting NU accounts
 
 #### Part 1:
-* First, go to <a href="https://service.northeastern.edu/tech?id=kb_article&sys_id=4c274bc71b28701026c26391b24bcbba#_ga=2.261705037.1569047752.1624901675-419605191.1623692929" target="_blank">this link</a> and click on "Apply for a sponsored account using the online form."
-* For "Job Title", select "Coding sessions student"
-* For "Role", select "Student employee"
-* For "University email required", select "No"
-* For "NUNet Account Required", select "No"
-* For "Sponsor's Last Name", put "Lotterhos"
-* Select the "Continue" Button 
-* Submit the application
+* First, go to <a href="https://service.northeastern.edu/tech?id=kb_article&sys_id=4c274bc71b28701026c26391b24bcbba#_ga=2.261705037.1569047752.1624901675-419605191.1623692929" target="_blank">this link</a>, and then click on the link to "Apply for a sponsored account using the online form" (in step 2).
+* Fill out your personal information.
+* For "Job Title," write "Coding sessions student."
+* For "Sponsorship Start Date," put next Tuesday's date (07/06/2021).
+* For "Role," select "Student Employee - 90 days."
+* For "University Email Account Required," select "No."
+* For "NUNet Account Required," select "No."
+* For "Sponsor's Last Name," write "Lotterhos" and press search, and then select "Lotterhos, Kathleen Elizabeth" (which should be the only result).
+* Click the "Continue" button.
+* Submit the application.
 
 The following steps will be completed after class:
 
