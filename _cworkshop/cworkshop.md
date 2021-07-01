@@ -40,5 +40,3 @@ week2:
 <hr style="border:2px solid gray">
 
 {% include feature_row id="week2" type="left" %}
-
-<hr style="border:2px solid gray">
