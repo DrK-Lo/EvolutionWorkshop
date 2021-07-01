@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /week1/
-title: "Summer 2021 Coding Sessions: Week 1"
+permalink: /week2/
+title: "Summer 2021 Coding Sessions: Week 2"
 
 header:
   overlay_color: "#000"
