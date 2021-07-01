@@ -12,10 +12,19 @@ header:
 intro: 
   - excerpt: ''
 
-instructors:
-  - title: "Instructors"
-    excerpt: 'Dr. Katie Lotterhos <br>
-    Dylan Titmuss'
+lotterhos:
+  - image_path: /assets/images/portraits/Lotterhos3.jpeg
+    alt: "dr_lotterhos"
+    excerpt: '**Dr. Katie Lotterhos** <br>
+    Associate Professor of Marine & Environmental Sciences  <br>
+    Northeastern University <br>'
+
+titmuss:
+  - image_path: /assets/images/portraits/Titmuss.jpeg
+    alt: "titmuss"
+    excerpt: '**Dylan Titmuss** <br>
+    B.S. Ecology and Evolutionary Biology  <br>
+    Northeastern University <br>'
 
 week1:
   - title: "Week 1: Giving instructions to a computer"
