@@ -13,7 +13,7 @@ intro:
   - excerpt: ''
   
 week1:
-    title: "Week 1: Giving instructions to a computer"
+  - title: "Week 1: Giving instructions to a computer"
     excerpt: '**Date** <br>
     July 6 <br>
     **Overview**  <br>
@@ -25,6 +25,6 @@ week1:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="week1" type="right" %}
+{% include feature_row id="week1" type="center" %}
 
 <hr style="border:2px solid gray">
