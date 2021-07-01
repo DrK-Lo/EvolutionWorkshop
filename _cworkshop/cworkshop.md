@@ -31,7 +31,7 @@ nonGenetic:
     July 6 <br>
     **Overview**  <br>
     Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding. <br>
-    url: "/nonGeneticInheritance/"
+    url: "/week1/"
     btn_label: "Week 1"
     btn_class: "btn--primary"
 
