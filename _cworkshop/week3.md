@@ -18,7 +18,9 @@ header:
 | ---- | ---- | ----- |
 | Get started on the HPC | 20 min | <a href="https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#" target="_blank">Steps to get started with R on the HPC</a> |
 | Review of coding lingo | 5 min | <a href="link" target="_blank">Link to slides</a> |
-| Introduction to Swirl()  *1:* Basic Building Blocks *3:* Sequences of Numbers | 25 min |  |
+| Introduction to Swirl()   
+*1:* Basic Building Blocks  
+*3:* Sequences of Numbers | 25 min |  |
 | R Challenge 1 | 15 min |  |
 
 ### Specific instructions for swirl():
