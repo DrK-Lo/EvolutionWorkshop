@@ -12,16 +12,6 @@ header:
 intro: 
   - excerpt: ''
   
-week1:
-  - title: "Week 1: Giving instructions to a computer"
-    excerpt: '**Date** <br>
-    July 6 <br>
-    **Overview**  <br>
-    Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding. <br>'
-    url: "/week1/"
-    btn_label: "Week 1"
-    btn_class: "btn--primary"
-
 week2:
   - title: "Week 2: Learn to code in Scratch"
     excerpt: '**Date** <br>
@@ -35,7 +25,7 @@ week2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="week1" type="left" %}
+
 
 <hr style="border:2px solid gray">
 
