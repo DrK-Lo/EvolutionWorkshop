@@ -22,3 +22,9 @@ week1:
     btn_label: "Week 1"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="week1" type="right" %}
+
+<hr style="border:2px solid gray">
