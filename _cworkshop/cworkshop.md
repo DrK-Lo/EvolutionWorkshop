@@ -23,7 +23,7 @@ lotterhos:
     Northeastern University'
 
 titmuss:
-  - image_path: /assets/images/portraits/Titmuss.jpeg
+  - image_path: /assets/images/portraits/Titmuss.jpg
     alt: "titmuss"
     excerpt: '**Dylan Titmuss** <br>
     B.S. Ecology and Evolutionary Biology <br>
