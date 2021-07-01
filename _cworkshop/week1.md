@@ -9,7 +9,8 @@ header:
   overlay_image: /assets/images/header_beachSurvey.png
 ---
 
-# Week 1: Giving instructions to a computer (July 6, 2021)
+# Week 1: Giving instructions to a computer
+## July 6, 2021
 
 *Overview:* Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding.
 
