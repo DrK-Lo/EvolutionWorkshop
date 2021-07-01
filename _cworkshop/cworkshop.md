@@ -16,15 +16,15 @@ lotterhos:
   - image_path: /assets/images/portraits/Lotterhos3.jpeg
     alt: "dr_lotterhos"
     excerpt: '**Dr. Katie Lotterhos** <br>
-    Associate Professor of Marine & Environmental Sciences  <br>
-    Northeastern University <br>'
+    Associate Professor of Marine & Environmental Sciences <br>
+    Northeastern University'
 
 titmuss:
   - image_path: /assets/images/portraits/Titmuss.jpeg
     alt: "titmuss"
     excerpt: '**Dylan Titmuss** <br>
-    B.S. Ecology and Evolutionary Biology  <br>
-    Northeastern University <br>'
+    B.S. Ecology and Evolutionary Biology <br>
+    Northeastern University'
 
 week1:
   - title: "Week 1: Giving instructions to a computer"
