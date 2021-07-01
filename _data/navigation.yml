@@ -20,6 +20,8 @@ main:
   - title: "Coding Sessions"
     url: /cworkshop/
     children:
+      - title: "Coding Sessions"
+        url: /cworkshop/
       - title: "Summer 2021 Coding Sessions: Week 1"
         url: /week1/
       - title: "Summer 2021 Coding Sessions: Week 2"
