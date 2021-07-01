@@ -12,27 +12,6 @@ header:
 intro: 
   - excerpt: ''
   
-instructors:
-  - title: "Instructors"
-
-lotterhos:
-  - image_path: /assets/images/portraits/Lotterhos3.jpeg
-    alt: "lotterhos"
-    excerpt: '**Dr. Katie Lotterhos**  <br>
-    Associate Professor of Marine & Environmental Sciences  <br>
-    Northeastern University <br>'
-
-titmuss:
-  - image_path: /assets/images/portraits/Titmuss.jpeg
-    alt: "titmuss"
-    excerpt: '**Dylan Titmuss**  <br>
-    B.S. Ecology and Evolutionary Biology  <br>
-    Northeastern University <br>'
-
-dates
-  - title: "Dates"
-  - excerpt: 'Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021'
-
 week1:
     title: "Week 1: Giving instructions to a computer"
     excerpt: '**Date** <br>
