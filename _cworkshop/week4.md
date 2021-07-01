@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /cworkshop/
-title: "Summer 2021 Coding Sessions"
+permalink: /week1/
+title: "Summer 2021 Coding Sessions: Week 1"
 
 header:
   overlay_color: "#000"
@@ -9,31 +9,9 @@ header:
   overlay_image: /assets/images/header_beachSurvey.png
 ---
 
-# Instructors
+# Week 1: Giving instructions to a computer (July 6, 2021)
 
-![image](https://lh4.googleusercontent.com/PfmqdxPov8hl9Qi8OiQSUnE01hXZ-8VDLPTHZRdoZLf9kj-YQ2XyChXSNQM-EndydkERpzh_oFiLB-lKueLrEABDrb1gRaa60jwFvLnFKGi_ZbD0=w1280)  
-Dr. Katie Lotterhos  
-Associate Professor of Marine & Environmental Sciences  
-Northeastern University
-
-![image](https://lh4.googleusercontent.com/rJ6MzVWubaHP2D8HQoaUmjc_OkP3HVVbOwfg-uT-B6KVCjTbkYF-wKI75C1fNUK50hZJf2ZbReeRVNi7kEId1K7IIqWlidiIfNVIp76RyEhz-fuVzHzFIIhLpG5mHsmX8A=w1280)  
-Dylan Titmuss  
-B.S. Ecology and Evolutionary Biology  
-Northeastern University
-
-# Dates
-
-Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
-
-nonGenetic:
-    title: "Week 1: Giving instructions to a computer"
-    excerpt: '**Date** <br>
-    July 6 <br>
-    **Overview**  <br>
-    Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding. <br>
-    url: "/nonGeneticInheritance/"
-    btn_label: "Week 1"
-    btn_class: "btn--primary"
+*Overview:* Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding.
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
