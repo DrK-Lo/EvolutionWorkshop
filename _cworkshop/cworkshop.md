@@ -7,30 +7,38 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header_beachSurvey.png
----
 
-# Instructors
 
-![image](https://lh4.googleusercontent.com/PfmqdxPov8hl9Qi8OiQSUnE01hXZ-8VDLPTHZRdoZLf9kj-YQ2XyChXSNQM-EndydkERpzh_oFiLB-lKueLrEABDrb1gRaa60jwFvLnFKGi_ZbD0=w1280)  
-Dr. Katie Lotterhos  
-Associate Professor of Marine & Environmental Sciences  
-Northeastern University
+intro: 
+  - excerpt: ''
+  
+instructors:
+  - title: "Instructors"
 
-![image](https://lh4.googleusercontent.com/rJ6MzVWubaHP2D8HQoaUmjc_OkP3HVVbOwfg-uT-B6KVCjTbkYF-wKI75C1fNUK50hZJf2ZbReeRVNi7kEId1K7IIqWlidiIfNVIp76RyEhz-fuVzHzFIIhLpG5mHsmX8A=w1280)  
-Dylan Titmuss  
-B.S. Ecology and Evolutionary Biology  
-Northeastern University
+lotterhos:
+  - image_path: /assets/images/portraits/Lotterhos3.jpeg
+    alt: "lotterhos"
+    excerpt: '**Dr. Katie Lotterhos**  <br>
+    Associate Professor of Marine & Environmental Sciences  <br>
+    Northeastern University <br>'
 
-# Dates
+titmuss:
+  - image_path: /assets/images/portraits/Titmuss.jpeg
+    alt: "titmuss"
+    excerpt: '**Dylan Titmuss**  <br>
+    B.S. Ecology and Evolutionary Biology  <br>
+    Northeastern University <br>'
 
-Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021
+dates
+  - title: "Dates"
+  - excerpt: 'Tuesdays from 4:30-6:00pm, July 6 - August 10, 2021'
 
-nonGenetic:
+week1:
     title: "Week 1: Giving instructions to a computer"
     excerpt: '**Date** <br>
     July 6 <br>
     **Overview**  <br>
-    Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding. <br>
+    Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding. <br>'
     url: "/week1/"
     btn_label: "Week 1"
     btn_class: "btn--primary"
