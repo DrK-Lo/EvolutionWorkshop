@@ -12,15 +12,14 @@ header:
 intro: 
   - excerpt: ''
 
-lotterhos:
-  - image_path: /assets/images/portraits/Lotterhos3.jpeg
+instructors:
+  - title: "Instructors"
+    image_path: /assets/images/portraits/Lotterhos3.jpeg
     alt: "dr_lotterhos"
     excerpt: '**Dr. Katie Lotterhos** <br>
     Associate Professor of Marine & Environmental Sciences <br>
     Northeastern University'
-
-titmuss:
-  - image_path: /assets/images/portraits/Titmuss.jpeg
+    image_path: /assets/images/portraits/Titmuss.jpeg
     alt: "titmuss"
     excerpt: '**Dylan Titmuss** <br>
     B.S. Ecology and Evolutionary Biology <br>
