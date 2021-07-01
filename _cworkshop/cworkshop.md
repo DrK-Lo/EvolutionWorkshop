@@ -14,12 +14,16 @@ intro:
 
 instructors:
   - title: "Instructors"
-    image_path: /assets/images/portraits/Lotterhos3.jpeg
+
+lotterhos:
+  - image_path: /assets/images/portraits/Lotterhos3.jpeg
     alt: "dr_lotterhos"
     excerpt: '**Dr. Katie Lotterhos** <br>
     Associate Professor of Marine & Environmental Sciences <br>
     Northeastern University'
-    image_path: /assets/images/portraits/Titmuss.jpeg
+
+titmuss:
+  - image_path: /assets/images/portraits/Titmuss.jpeg
     alt: "titmuss"
     excerpt: '**Dylan Titmuss** <br>
     B.S. Ecology and Evolutionary Biology <br>
@@ -38,12 +42,12 @@ week1:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="lotterhos" type="left" %}
-
-{% include feature_row id="titmuss" type="left" %}
-
-<hr style="border:2px solid gray">
-
 {% include feature_row id="week1" type="left" %}
 
 <hr style="border:2px solid gray">
+
+{% include feature_row id="instructors" type="left" %}
+
+{% include feature_row id="lotterhos" type="left" %}
+
+{% include feature_row id="titmuss" type="left" %}
