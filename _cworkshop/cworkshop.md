@@ -12,6 +12,11 @@ header:
 intro: 
   - excerpt: ''
 
+instructors:
+  - title: "Instructors"
+    excerpt: 'Dr. Katie Lotterhos <br>
+    Dylan Titmuss'
+
 week1:
   - title: "Week 1: Giving instructions to a computer"
     excerpt: '**Date** <br>
