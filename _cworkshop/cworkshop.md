@@ -14,7 +14,7 @@ intro:
 
 week1:
   - title: "Week 1: Giving instructions to a computer"
-    excerpt: '**Date**  <br>
+    excerpt: '**Date** <br>
     July 6 <br>
     **Overview** <br>
     Meet the participants, go over coding terminology, practice giving explicit instructions, and try paired coding.'
