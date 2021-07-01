@@ -34,7 +34,13 @@ For help with the specific functions, Scratch's "animation cards" are
 
 ### Animate a Character (paired challenges)
 
-Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions). <a href="link" target="_blank">Link to solution.</a>
+#### Challenge #1
+
+Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions).
+
+<a href="link" target="_blank">Link to solution.</a>
+
+#### Challenge #2
 
 After your first sprite is finished successfully navigating, your second challenge is to make your second sprite (now the mover) move to 20 random positions around the board with the control that if sprites touch (now the first sprite is the stationary object), a sound is played. For this challenge, switch roles of driver and navigator. <a href="link" target="_blank">Link to solution.</a>
 

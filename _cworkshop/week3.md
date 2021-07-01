@@ -35,6 +35,8 @@ When you reach the end of the lesson:
 1) Enter `1` again to return to the "R Programming" course.
 6) Enter `3` to choose Lesson 3: Sequences of Numbers.
 
-### Swirl challenge #1
+### R Challenge #1
+
+To complete the challenge, enter `play()` while using Swirl to escape the Swirl prompts.
 
 <a href="link" target="_blank">Link to solution.</a>
