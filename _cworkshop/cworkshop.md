@@ -39,7 +39,11 @@ week1:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="instructors" type="left" %}
+{% include feature_row id="lotterhos" type="left" %}
+
+{% include feature_row id="titmuss" type="left" %}
+
+<hr style="border:2px solid gray">
 
 {% include feature_row id="week1" type="left" %}
 
