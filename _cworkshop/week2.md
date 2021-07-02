@@ -35,16 +35,21 @@ animate:
 For help with the specific functions, Scratch's "animation cards" are 
 <a href="https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf" target="_blank">here</a>.
 
-### Animate a Character (paired challenges)
+Find step-by-step screenshots and an example solution 
+<a href="https://docs.google.com/presentation/d/1YseYzyKSpMpMBzGOzPWGpf3dEpsS7LsswhN730BN4c4/edit?usp=sharing" target="_blank">here</a>.
+
+### "Animate a Character" Paired Challenges
 
 #### Challenge #1
 
-Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at -180, -100 and the second sprite (the stationary object) is located at 0,0. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions).
+Your first challenge is to navigate one sprite around another sprite. Your first sprite (the mover) is located at (-180, -100) and the second sprite (the stationary object) is located at (0, 0). Make the first sprite move to the opposite corner of the screen and then change "costume" for 1 second, all without touching the second sprite. For this challenge, choose one person to be the driver (writes the code) and the other person be the navigator (helps to debug code and find the correct functions).  
 
-<a href="link" target="_blank">Link to solution.</a>
+<a href="https://docs.google.com/presentation/d/17I2qcNfdN9HscgDBlVLsRHnQ4NN_uJ3J_gwA-azA7tk/edit?usp=sharing" target="_blank">Link to guide screenshots and an example solution.</a>
 
 #### Challenge #2
 
-After your first sprite is finished successfully navigating, your second challenge is to make your second sprite (now the mover) move to 20 random positions around the board with the control that if sprites touch (now the first sprite is the stationary object), a sound is played. For this challenge, switch roles of driver and navigator. <a href="link" target="_blank">Link to solution.</a>
+After your first sprite is finished successfully navigating, your second challenge is to make your second sprite (now the mover) move to 20 random positions around the board with the control that if sprites touch (now the first sprite is the stationary object), a sound is played. For this challenge, switch roles of driver and navigator.  
+
+<a href="https://docs.google.com/presentation/d/14cW31SzZwRqD51w5NwtviKdoeWD_v44hkAipBiV8wIs/edit?usp=sharing" target="_blank">Link to guide screenshots and an example solution.</a>
 
 If you finish both challenges, create something that will surprise us!

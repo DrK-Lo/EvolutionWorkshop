@@ -69,5 +69,5 @@ Submit a second
 For help with the specific functions, Scratch's "animation cards" are 
 <a href="https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf" target="_blank">here</a>.
 
-5) Find an example solution 
+Find step-by-step screenshots and an example solution 
 <a href="https://docs.google.com/presentation/d/1-4M9wwLV_yvjNyw_EZ_fkfKdy-XaWmbhYlPpCokanXU/edit?usp=sharing" target="_blank">here</a>.
