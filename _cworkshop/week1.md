@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /week1/
-title: "Summer 2021 Coding Sessions: Week 1"
+title: "Summer 2021 Coding Sessions"
 
 header:
   overlay_color: "#000"
