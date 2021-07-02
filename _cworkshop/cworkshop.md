@@ -46,9 +46,9 @@ week1:
 Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
 # Instructors
-<img src="https://raw.github.com/DrK-Lo/EvolutionWorkshop/blob/master/assets/images/portraits/Lotterhos3.jpeg" width=25% height=25%>
+<img src="https://raw.github.com/DrK-Lo/EvolutionWorkshop/assets/images/portraits/Lotterhos3.jpeg" width=25% height=25%>
 
-<img src="https://raw.github.com/DrK-Lo/EvolutionWorkshop/blob/master/assets/images/portraits/Titmuss.jpg" width=25% height=25%>
+<img src="https://raw.github.com/DrK-Lo/EvolutionWorkshop/assets/images/portraits/Titmuss.jpg" width=25% height=25%>
 
 {% include feature_row id="lotterhos" type="left" %}
 
