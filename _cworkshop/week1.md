@@ -7,6 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header_beachSurvey.png
+
+animate:
+  - image_path: /assets/images/cworkshop/AnimateName.png
+    alt: "web_image"
 ---
 
 # Week 1: Giving instructions to a computer
@@ -58,7 +62,7 @@ Submit a second
 ### Intro to Scratch: Animate a Name!
 1) Click on the "Animate a Name" challenge on the 
 <a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.  
-![image](https://lh3.googleusercontent.com/xxnrOVrtLaY0IhYTxD_pjy5euoMB2uA4UfFJNE928fDhfj6s0kY3Zv7-wkHM8qu6ez9LxNDwKUpuiRY59LPP5w2CRKWn9Yc1-uOko_nJUfHvk-pWjUhLRXtvbOW0nnj25EKwINEdijM)  
+{% include feature_row id="animate" type="left" %}
 2) Watch the tutorial.  
 3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)  
 4) Use at least one type of control and two types of motions, looks, or sounds to animate your initials/name/word of choice!

@@ -7,6 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/header_beachSurvey.png
+
+animate:
+  - image_path: /assets/images/cworkshop/AnimateCharacter.png
+    alt: "web_image"
 ---
 
 # Week 2: Learn to code in Scratch
@@ -25,7 +29,7 @@ header:
 ### Animate a Character (group challenge)
 
 1) Click on the "Animate a Character" challenge on the <a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.
-![image](https://lh4.googleusercontent.com/gCQS9XzsbAktkx7hgD2b8x9_jvGv0eWmCRS_5iSPRGxZWG19lW3Ak_oAVwNGUiPJseyncs011aoG27s8-Kzhyorh6Pl9K4QsOQfUMA68PWKPHa_z27CuPRt0KAMqAhOczKtXqdpmFJg)  
+{% include feature_row id="animate" type="left" %}
 2) Watch the tutorial.  
 3) Together, let's animate a character! Our first challenge will be to use at least one type of *sensing* control and two types of motions, looks, or sounds to animate our character.
 
