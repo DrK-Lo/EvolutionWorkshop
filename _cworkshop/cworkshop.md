@@ -14,15 +14,17 @@ intro:
 
 instructors:
   - title: "Instructors"
+
+img_instructors:
   - image_path: /assets/images/portraits/Lotterhos3.jpeg
     alt: "dr_lotterhos"
-    excerpt: '**Dr. Katie Lotterhos** <br>
-    Associate Professor of Marine & Environmental Sciences <br>
+    title: "Dr. Katie Lotterhos"
+    excerpt: 'Associate Professor of Marine & Environmental Sciences <br>
     Northeastern University'
-  - image_path: /assets/images/portraits/Titmuss.jpg
+  - title: /assets/images/portraits/Titmuss.jpg
     alt: "titmuss"
-    excerpt: '**Dylan Titmuss** <br>
-    B.S. Ecology and Evolutionary Biology <br>
+    title: "Dylan Titmuss"
+    excerpt: 'B.S. Ecology and Evolutionary Biology <br>
     Northeastern University'
 
 week1:
@@ -42,7 +44,7 @@ week1:
 Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
 # Instructors
-{% include feature_row id="instructors" type="left" %}
+{% include feature_row id="img_instructors" type="center" %}
 
 <hr style="border:2px solid gray">
 
