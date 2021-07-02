@@ -39,8 +39,12 @@ week1:
 # Dates
 Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
+<hr style="border:2px solid gray">
+
 # Instructors
-{% include feature_row id="instructors" %}
+{% include feature_row id="instructors" type="center" %}
+
+<hr style="border:2px solid gray">
 
 # Outline
 {% include feature_row id="week1" type="left" %}
