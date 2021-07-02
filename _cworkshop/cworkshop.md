@@ -35,7 +35,7 @@ week1:
 
 week2:
   - title: "Week 2: Learn to code in Scratch"
-    excerpt: '**Date**  <br>
+    excerpt: '**Date** <br>
     July 13 <br>
     **Overview** <br>
     Put last week's analogy into practice and become familiar with coding basics by learning to code in Scratch.'
@@ -61,6 +61,6 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
 <hr style="border:1px solid gray">
 
-{% include feature_row id="week2" type="left" %}
+{% include feature_row id="week2" type="right" %}
 
 <hr style="border:1px solid gray">
