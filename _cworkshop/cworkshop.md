@@ -20,7 +20,7 @@ instructors:
   - image_path: /assets/images/portraits/Titmuss.jpg
     alt: "titmuss"
     title: "Dylan Titmuss"
-    excerpt: 'B.S. Ecology and Evolutionary Biology <br>
+    excerpt: 'B.S. Ecology and Evolutionary Biology & English <br>
     Northeastern University'
 
 week1:
@@ -42,7 +42,7 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 <hr style="border:2px solid gray">
 
 # Instructors
-{% include feature_row id="instructors" type="center" %}
+{% include feature_row id="instructors" %}
 
 <hr style="border:2px solid gray">
 
