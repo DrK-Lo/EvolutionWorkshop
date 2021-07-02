@@ -62,9 +62,6 @@ Submit a second
 ### Intro to Scratch: Animate a Name!
 1) Click on the "Animate a Name" challenge on the 
 <a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.  
-
-{% include feature_row id="animate" %}
-
 2) Watch the tutorial.  
 3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)  
 4) Use at least one type of control and two types of motions, looks, or sounds to animate your initials/name/word of choice!
