@@ -42,7 +42,11 @@ week1:
 
 {% include feature_row id="intro" type="center" %}
 
+# Dates
+Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
+
 # Instructors
+<img src="/assets/images/portraits/Lotterhos3.jpeg" width=50% height=50%>
 
 {% include feature_row id="lotterhos" type="left" %}
 
