@@ -22,17 +22,17 @@ main:
     children:
       - title: "Coding Sessions"
         url: /cworkshop/
-      - title: "Summer 2021 Coding Sessions: Week 1"
+      - title: "Week 1"
         url: /week1/
-      - title: "Summer 2021 Coding Sessions: Week 2"
+      - title: "Week 2"
         url: /week2/
-      - title: "Summer 2021 Coding Sessions: Week 3"
+      - title: "Week 3"
         url: /week3/
-      - title: "Summer 2021 Coding Sessions: Week 4"
+      - title: "Week 4"
         url: /week4/
-      - title: "Summer 2021 Coding Sessions: Week 5"
+      - title: "Week 5"
         url: /week5/
-      - title: "Summer 2021 Coding Sessions: Week 6"
+      - title: "Week 6"
         url: /week6/
   - title: "The Scientists"
     url: /scientists/
