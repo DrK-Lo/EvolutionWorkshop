@@ -22,7 +22,7 @@ animate:
 | ---- | ---- | ----- |
 | Introduction and icebreaker | 25 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Sign up for scratch and NU accounts | 20 min | Sign up at <a href="https://scratch.mit.edu/" target="_blank">scratch.mit.edu</a>, and for NU account, see intructions below. |
+| Sign up for scratch and NU accounts | 20 min | Sign up at <a href="https://scratch.mit.edu/join" target="_blank">scratch.mit.edu</a>, and for NU account, see intructions below. |
 | Intro to Scratch | 15 min | |
 
 ### Overview of coding lingo and blindfold exercise
@@ -62,7 +62,9 @@ Submit a second
 ### Intro to Scratch: Animate a Name!
 1) Click on the "Animate a Name" challenge on the 
 <a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.  
-{% include feature_row id="animate" type="left" %}
+
+{% include feature_row id="animate" %}  
+
 2) Watch the tutorial.  
 3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)  
 4) Use at least one type of control and two types of motions, looks, or sounds to animate your initials/name/word of choice!
