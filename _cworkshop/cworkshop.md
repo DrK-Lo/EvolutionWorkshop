@@ -50,7 +50,3 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 {% include feature_row id="week1" type="left" %}
 
 <hr style="border:1px solid gray">
-
-{% include feature_row id="week2" type="right" %}
-
-<hr style="border:1px solid gray">
