@@ -25,6 +25,8 @@ header:
 
 <a href="https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM" target="_blank">Introductory slides</a>
 
+[Introductory slides](https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM){:target="_blank" rel="noopener"}
+
 ### Specific instructions for getting NU accounts
 
 #### Part 1:
