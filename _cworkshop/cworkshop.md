@@ -8,20 +8,16 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header_beachSurvey.png
 
-
 intro: 
   - excerpt: ''
 
 instructors:
-  - title: "Instructors"
-
-img_instructors:
   - image_path: /assets/images/portraits/Lotterhos3.jpeg
     alt: "dr_lotterhos"
     title: "Dr. Katie Lotterhos"
     excerpt: 'Associate Professor of Marine & Environmental Sciences <br>
     Northeastern University'
-  - title: /assets/images/portraits/Titmuss.jpg
+  - image_path: /assets/images/portraits/Titmuss.jpg
     alt: "titmuss"
     title: "Dylan Titmuss"
     excerpt: 'B.S. Ecology and Evolutionary Biology <br>
@@ -44,10 +40,9 @@ week1:
 Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
 # Instructors
-{% include feature_row id="img_instructors" type="center" %}
+{% include feature_row id="instructors" %}
 
-<hr style="border:2px solid gray">
-
+# Outline
 {% include feature_row id="week1" type="left" %}
 
 <hr style="border:2px solid gray">
