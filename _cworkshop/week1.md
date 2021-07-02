@@ -63,7 +63,7 @@ Submit a second
 1) Click on the "Animate a Name" challenge on the 
 <a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.  
 
-{% include feature_row id="animate" %}  
+{% include feature_row id="animate" %}
 
 2) Watch the tutorial.  
 3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)  

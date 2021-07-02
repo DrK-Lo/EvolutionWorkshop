@@ -29,7 +29,7 @@ animate:
 ### Animate a Character (group challenge)
 
 1) Click on the "Animate a Character" challenge on the <a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.
-{% include feature_row id="animate" type="left" %}
+{% include feature_row id="animate" %}
 2) Watch the tutorial.  
 3) Together, let's animate a character! Our first challenge will be to use at least one type of *sensing* control and two types of motions, looks, or sounds to animate our character.
 
