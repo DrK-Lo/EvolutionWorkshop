@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/header_beachSurvey.png
 
 animate:
-  - image_path: /assets/images/cworkshop/AnimateName.png
-    alt: "web_image"
+  - image_path: /assets/images/cworkshop/AnimateName.jpg
+    alt: "scratch_image"
 ---
 
 # Week 1: Giving instructions to a computer
@@ -22,7 +22,7 @@ animate:
 | ---- | ---- | ----- |
 | Introduction and icebreaker | 25 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Sign up for scratch and NU accounts | 20 min | Sign up at <a href="scratch.mit.edu" target="_blank">scratch.mit.edu</a>, and for NU account, see intructions below. |
+| Sign up for scratch and NU accounts | 20 min | Sign up at <a href="https://scratch.mit.edu/" target="_blank">scratch.mit.edu</a>, and for NU account, see intructions below. |
 | Intro to Scratch | 15 min | |
 
 ### Overview of coding lingo and blindfold exercise

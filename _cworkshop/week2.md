@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/header_beachSurvey.png
 
 animate:
-  - image_path: /assets/images/cworkshop/AnimateCharacter.png
-    alt: "web_image"
+  - image_path: /assets/images/cworkshop/AnimateCharacter.jpg
+    alt: "scratch_image"
 ---
 
 # Week 2: Learn to code in Scratch
