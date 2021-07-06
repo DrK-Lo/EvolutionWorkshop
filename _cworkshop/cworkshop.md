@@ -36,7 +36,7 @@ weeks13:
     excerpt: '**Date** <br>
     July 13 <br>
     **Overview** <br>
-    Put last week's analogy into practice and become familiar with coding basics by learning to code in Scratch.'
+    Become familiar with coding basics by learning to code in Scratch.'
     url: "/week2/"
     btn_label: "Week 2"
     btn_class: "btn--primary"
