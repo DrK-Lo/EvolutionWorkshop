@@ -32,6 +32,16 @@ week1:
     url: "/week1/"
     btn_label: "Week 1"
     btn_class: "btn--primary"
+
+week3:
+  - title: "Week 3: Northeastern's HPC & Introduction to R - swirl()"
+    excerpt: '**Date** <br>
+    July 20 <br>
+    **Overview**  <br>
+    Begin learning the basics of coding in R using the program swirl().'
+    url: "/week3/"
+    btn_label: "Week 3"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -48,5 +58,9 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
 # Outline
 {% include feature_row id="week1" type="left" %}
+
+<hr style="border:1px solid gray">
+
+{% include feature_row id="week3" type="left" %}
 
 <hr style="border:1px solid gray">
