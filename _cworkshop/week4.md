@@ -17,11 +17,15 @@ header:
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Coding Kahoot! | 10 min | |
-| Intro to matrices and dataframes | 5 min | [Link to slides](https://docs.google.com/presentation/d/1Lf-NcGFshaDOoHFOOmwZTy5ZqGl_3Ern38Ax-DUddfo){:target="_blank" rel="noopener"} |
+| Intro to dataframes | 5 min | [Link to slides](https://docs.google.com/presentation/d/1Lf-NcGFshaDOoHFOOmwZTy5ZqGl_3Ern38Ax-DUddfo){:target="_blank" rel="noopener"} |
 | Swirl()  *4:* Vectors & *6:* Subsetting Vectors | 20 min |  |
 | R Challenge 2 | 10 min | |
 | Swirl()  *7:* Matrices and Data Frames | 10 min |  |
 | R Challenge 3 | 10 min |  |
+
+### Intro to dataframes
+
+[Link to slides](https://docs.google.com/presentation/d/1Lf-NcGFshaDOoHFOOmwZTy5ZqGl_3Ern38Ax-DUddfo){:target="_blank" rel="noopener"}
 
 ### R Challenge #2: Vectors
 
