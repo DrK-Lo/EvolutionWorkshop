@@ -32,10 +32,10 @@ header:
 To complete the challenge, enter `bye()` while using Swirl to escape the Swirl prompts.
 
 1. Fill in the blanks in this expression so that the output is `TRUE`.
-(10 - ___ > 0) | (1 + 24 == ___).
+(10 - __ > 0) | (1 + 24 == __).
 
 2. Fill in the blanks in this expression so that the output is `FALSE`.
-(10 - ___ > 0) | (1 + 24 == ___).
+(10 - __ > 0) | (1 + 24 == __).
 
 3. Using the following values, create a vector `short`: -7, -3, 0, 5. Order the values so that, when you run `short >= -5 & short < 5`, the output is: `TRUE FALSE TRUE FALSE`.
 
@@ -43,13 +43,13 @@ To complete the challenge, enter `bye()` while using Swirl to escape the Swirl p
 
 5. Use the `paste()` function to paste a number from 1 to the length of your name in front of each letter in your vector `name`, with the separator (`sep = `) set to a space.
 
-[Link to solution.](link){:target="_blank" rel="noopener"}
+[Link to solution.](https://docs.google.com/document/d/1fgN75_kFzfvOUi2KBYl_TVfaJqnOUT_E4BbVDwRvPD0){:target="_blank" rel="noopener"}
 
 ### R Challenge #3: Dataframes
 
 To complete the challenge, enter `bye()` while using Swirl to escape the Swirl prompts.
 
-1) Create a data frame called `weather` with five columns: "season", "months", "high_temp", "low_temp", and "avg_rainy_days". Include the following data:
+1) Create a data frame called `weather` with five columns: "season", "months", "high_temp", "low_temp", and "rainy_days". Include the following data:
 
 **Spring**  
 Months: Mar - May  
@@ -79,4 +79,4 @@ Average rainy days per month: 12
 
 *Hint 2: Remember to use quotation marks around character strings!*
 
-[Link to solution.](link){:target="_blank" rel="noopener"}
+[Link to solution.](https://docs.google.com/document/d/1r0D-4Fi4AElgUImgSWhgIivutpqSkry6B4rP7SaoFdI){:target="_blank" rel="noopener"}

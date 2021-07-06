@@ -56,17 +56,17 @@ Average rainy days per month: 12
 
 *Hint 2: Remember to use quotation marks around character strings!*
 
-[Link to solution.](link){:target="_blank" rel="noopener"}
+[Link to solution.](https://docs.google.com/document/d/1r0D-4Fi4AElgUImgSWhgIivutpqSkry6B4rP7SaoFdI){:target="_blank" rel="noopener"}
 
 ### Intro to plotting
 
 [Link to slides](link){:target="_blank" rel="noopener"}
 
-- load data frame
+- load data frame with data()
 - head()
 - $ operator
-- xlab()
-- sub()
+- xlab() & ylab()
+- main() & sub()
 
 ### Group plotting challenge:
 
