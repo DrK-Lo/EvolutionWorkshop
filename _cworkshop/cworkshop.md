@@ -42,6 +42,16 @@ week3:
     url: "/week3/"
     btn_label: "Week 3"
     btn_class: "btn--primary"
+
+week4:
+  - title: "Week 4: More with R - swirl()"
+    excerpt: '**Date** <br>
+    July 27 <br>
+    **Overview**  <br>
+    Continue using swirl() to learn to code in R, exploring vectors, matrices, and dataframes.'
+    url: "/week4/"
+    btn_label: "Week 4"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -59,8 +69,6 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 # Outline
 {% include feature_row id="week1" type="left" %}
 
-<hr style="border:1px solid gray">
-
 {% include feature_row id="week3" type="left" %}
 
-<hr style="border:1px solid gray">
+{% include feature_row id="week4" type="left" %}
