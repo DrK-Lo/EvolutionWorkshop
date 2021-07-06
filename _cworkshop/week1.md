@@ -43,7 +43,6 @@ animate:
 * Click the "Continue" button.
 * Submit the application.
 
-The following steps will be completed after class:
 
 #### Part 2: 
 * Dr. Lotterhos will approve your application after you submit it.
