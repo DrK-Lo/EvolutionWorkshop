@@ -52,6 +52,26 @@ week4:
     url: "/week4/"
     btn_label: "Week 4"
     btn_class: "btn--primary"
+
+week5:
+  - title: "Week 5: Make a plot with R"
+    excerpt: '**Date** <br>
+    August 3 <br>
+    **Overview**  <br>
+    Build on the previous activities by making plots in swirl(), and then create a plot using external data.'
+    url: "/week5/"
+    btn_label: "Week 5"
+    btn_class: "btn--primary"
+
+week6:
+  - title: "Week 6: Into the future!"
+    excerpt: '**Date** <br>
+    August 10 <br>
+    **Overview**  <br>
+    Continue building plots using the data from last week, learn how to download and use R on your own, and discuss career opportunities involving data science and coding.'
+    url: "/week6/"
+    btn_label: "Week 6"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -72,3 +92,7 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 {% include feature_row id="week3" type="left" %}
 
 {% include feature_row id="week4" type="left" %}
+
+{% include feature_row id="week5" type="left" %}
+
+{% include feature_row id="week6" type="left" %}
