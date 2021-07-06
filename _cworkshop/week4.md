@@ -31,9 +31,9 @@ header:
 
 To complete the challenge, enter `bye()` while using Swirl to escape the Swirl prompts.
 
-1. Fill in the blanks in this expression so that the output is `TRUE`: (10 - ___ > 0) | (1 + 24 == ___).
+1. Fill in the blanks in this expression so that the output is `TRUE`. (10 - ___ > 0) | (1 + 24 == ___).
 
-2. Fill in the blanks in this expression so that the output is `FALSE`: (10 - ___ > 0) | (1 + 24 == ___).
+2. Fill in the blanks in this expression so that the output is `FALSE`. (10 - ___ > 0) | (1 + 24 == ___).
 
 3. Using the following values, create a vector `short`: -7, -3, 0, 5. Order the values so that, when you run `short >= -5 & short < 5`, the output is: `TRUE FALSE TRUE FALSE`.
 
