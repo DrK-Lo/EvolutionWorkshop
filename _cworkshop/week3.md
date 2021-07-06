@@ -24,15 +24,15 @@ header:
 [Steps to get started with R on the HPC.](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"}
 
 ### Specific instructions for swirl():
-To use swirl(), follow these steps:
-1) Type `library(swirl)`.
-2) Type `swirl()`.
-3) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".
+To use swirl(), follow these steps:  
+1) Type `library(swirl)`.  
+2) Type `swirl()`.  
+3) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".  
 4) Enter `1` again to choose the "R Programming" course.
 5) Enter `1` to choose Lesson 1: Basic Building Blocks.
 
-When you reach the end of the lesson:
-1) Enter `1` again to return to the "R Programming" course.
+When you reach the end of the lesson:  
+1) Enter `1` again to return to the "R Programming" course.  
 2) Enter `3` to choose Lesson 3: Sequences of Numbers.
 
 To complete the challenge after finishing Lesson 3, press Esc to exit swirl().
