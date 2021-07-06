@@ -83,6 +83,11 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 
 <hr style="border:2px solid gray">
 
+# Location
+Zoom link sent via email!
+
+<hr style="border:2px solid gray">
+
 # Instructors
 {% include feature_row id="instructors" %}
 
