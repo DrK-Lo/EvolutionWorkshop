@@ -16,12 +16,12 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Get started on the HPC | 20 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#){:target="_blank" rel="noopener"} |
-| Review of coding lingo | 5 min | <a href="https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw/edit?usp=sharing" target="_blank">Link to slides</a> |
-| Introduction to Swirl() *1:* Basic Building Blocks *3:* Sequences of Numbers | 25 min |  |
+| Get started on the HPC | 20 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"} |
+| Review of coding lingo | 5 min | [Link to slides](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"} |
+| Introduction to Swirl() *1:* Basic Building Blocks & *3:* Sequences of Numbers | 25 min |  |
 | R Challenge 1 | 15 min |  |
 
-<a href="https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU/edit#" target="_blank">Steps to get started with R on the HPC</a>
+[Steps to get started with R on the HPC.](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"}
 
 ### Specific instructions for swirl():
 To use swirl(), follow these steps:
@@ -59,4 +59,4 @@ To complete the challenge after finishing Lesson 3, press Esc to exit swirl().
 
 10. Find the length of this new vector `fruit`.
 
-<a href="https://docs.google.com/document/d/1DKzsHI3GC00k1uWt5d45HUv9cU2plCmngVV67nJjyf4/edit?usp=sharing" target="_blank">Link to solution.</a>
+[Link to solution.](https://docs.google.com/document/d/1DKzsHI3GC00k1uWt5d45HUv9cU2plCmngVV67nJjyf4){:target="_blank" rel="noopener"}

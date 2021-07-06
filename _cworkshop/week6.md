@@ -16,6 +16,6 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| x | y | z|
+|  |  |  |
 
 ### Links & more info

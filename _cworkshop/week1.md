@@ -22,17 +22,17 @@ animate:
 | ---- | ---- | ----- |
 | Introduction and icebreaker | 25 min | |
 | Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Sign up for scratch and NU accounts | 20 min | Sign up at <a href="https://scratch.mit.edu/join" target="_blank">scratch.mit.edu</a>, and for NU account, see intructions below. |
+| Sign up for scratch and NU accounts | 20 min | Sign up at [scratch.mit.edu](https://scratch.mit.edu/join){:target="_blank" rel="noopener"}, and for NU account, see intructions below. |
 | Intro to Scratch | 15 min | |
 
 ### Overview of coding lingo and blindfold exercise
 
-<a href="https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM" target="_blank">Introductory slides</a>
+[Introductory slides](https://docs.google.com/presentation/d/1vjGZ8xC2mJlAUy8r8tNwISR0Lf9UU7PfLSXcRUaK4NM){:target="_blank" rel="noopener"}
 
 ### Specific instructions for getting NU accounts
 
 #### Part 1:
-* First, go to <a href="https://service.northeastern.edu/tech?id=kb_article&sys_id=4c274bc71b28701026c26391b24bcbba#_ga=2.261705037.1569047752.1624901675-419605191.1623692929" target="_blank">this link</a>, and then click on the link to "Apply for a sponsored account using the online form" (in step 2).
+* First, go to [this link](https://service.northeastern.edu/tech?id=kb_article&sys_id=4c274bc71b28701026c26391b24bcbba#_ga=2.261705037.1569047752.1624901675-419605191.1623692929){:target="_blank" rel="noopener"}, and then click on the link to "Apply for a sponsored account using the online form" (in step 2).
 * Fill out your personal information.
 * For "Job Title," write "Coding sessions student."
 * For "Sponsorship Start Date," put next Tuesday's date (07/06/2021).
@@ -56,17 +56,14 @@ Download Duo Two Factor Authentication App from the App Store. (If you don't hav
 In order to login into Duo with your new Northeastern Account, call Northeastern IT to set up Duo access with them: 617.373.4357.
 
 #### Part 5: 
-Submit a second 
-<a href="https://bit.ly/NURC-AccessRequest" target="_blank">form</a> to get a sponsored Discovery account in addition to a sponsored NEU ID.
+Submit a second [form](https://bit.ly/NURC-AccessRequest){:target="_blank" rel="noopener"} to get a sponsored Discovery account in addition to a sponsored NEU ID.
 
 ### Intro to Scratch: Animate a Name!
-1) Click on the "Animate a Name" challenge on the 
-<a href="https://scratch.mit.edu/projects/editor/?tutorial=all" target="_blank">website</a>.  
+1) Click on the "Animate a Name" challenge on the [Scratch website](https://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank" rel="noopener"}.  
 2) Watch the tutorial.  
 3) Decide whether to animate your initials, your name, or any other word! (Aim for about 2-5 letters.)  
 4) Use at least one type of control and two types of motions, looks, or sounds to animate your initials/name/word of choice!
 
-For help with the specific functions, Scratch's "animation cards" are 
-<a href="https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf" target="_blank">here</a>.
+For help with the specific functions, Scratch's "animation cards" are [here](https://resources.scratch.mit.edu/www/cards/en/animation-cards.pdf){:target="_blank" rel="noopener"}.
 
-Find step-by-step screenshots and an example solution [here](https://docs.google.com/presentation/d/1-4M9wwLV_yvjNyw_EZ_fkfKdy-XaWmbhYlPpCokanXU/edit?usp=sharing){:target="_blank" rel="noopener"}.
+Find step-by-step screenshots and an example solution [here](https://docs.google.com/presentation/d/1-4M9wwLV_yvjNyw_EZ_fkfKdy-XaWmbhYlPpCokanXU){:target="_blank" rel="noopener"}.
