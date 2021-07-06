@@ -41,7 +41,7 @@ weeks13:
     btn_label: "Week 3"
     btn_class: "btn--primary"
 
-week4:
+weeks46:
   - title: "Week 4: More with R - swirl()"
     excerpt: '**Date** <br>
     July 27 <br>
@@ -50,8 +50,6 @@ week4:
     url: "/week4/"
     btn_label: "Week 4"
     btn_class: "btn--primary"
-
-week5:
   - title: "Week 5: Make a plot with R"
     excerpt: '**Date** <br>
     August 3 <br>
@@ -60,8 +58,6 @@ week5:
     url: "/week5/"
     btn_label: "Week 5"
     btn_class: "btn--primary"
-
-week6:
   - title: "Week 6: Into the future!"
     excerpt: '**Date** <br>
     August 10 <br>
@@ -87,8 +83,4 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 # Outline
 {% include feature_row id="weeks13" %}
 
-{% include feature_row id="week4" %}
-
-{% include feature_row id="week5" %}
-
-{% include feature_row id="week6" %}
+{% include feature_row id="weeks46" %}
