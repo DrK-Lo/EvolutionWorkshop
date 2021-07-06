@@ -16,6 +16,7 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
+| Introduction to High Performance Computing | 5 min| [Link to slides](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"} |
 | Get started on the HPC | 20 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"} |
 | Review of coding lingo | 5 min | [Link to slides](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"} |
 | Introduction to Swirl() *1:* Basic Building Blocks & *3:* Sequences of Numbers | 25 min |  |
