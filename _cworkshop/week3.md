@@ -23,6 +23,8 @@ header:
 
 [Steps to get started with R on the HPC.](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"}
 
+[Link to coding review slides.](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"}
+
 ### Specific instructions for swirl():
 To use swirl(), follow these steps:  
 1) Type `library(swirl)`.  
