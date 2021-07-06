@@ -20,7 +20,7 @@ animate:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Accounts | 15 min | Continue getting accounts set up |
+| Accounts | 10 min | Continue getting accounts set up |
 | Animate a Character (group challenge) | 10 min | See details below |
 | Pair challenge 1 | 15 min | Get your character to navigate around an object |
 | Pair challenge 2 | 15 min | Make your character move around with sound effects |

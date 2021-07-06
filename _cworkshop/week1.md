@@ -20,10 +20,11 @@ animate:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Introduction and icebreaker | 15 min |  |
-| Blindfold navigation | 15 min | Practice giving instructions to navigate a blindfolded person around an object! |
-| Intro to Scratch | 15 min |  |
-| Animate your name (and sign up for NU account if needed) | 15 min | Go to the [Scratch website](https://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank" rel="noopener"}, and for NU account, see intructions below. |
+| Introduction and icebreaker | 25 min |  |
+| Blindfold navigation | 10 min | Practice giving instructions to navigate a blindfolded person around an object! |
+| Intro to Scratch | 10 min |  |
+| Animate your name (and sign up for NU account if needed) | 10 min | Go to the [Scratch website](https://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank" rel="noopener"}, and for NU account, see intructions below. |
+| Share your animations! | 5 min |  |
 
 ### Overview of coding lingo and blindfold exercise
 
