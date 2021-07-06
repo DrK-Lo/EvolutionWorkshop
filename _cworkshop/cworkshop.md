@@ -23,7 +23,7 @@ instructors:
     excerpt: 'B.S. Ecology and Evolutionary Biology & English <br>
     Northeastern University'
 
-week1:
+weeks13:
   - title: "Week 1: Giving instructions to a computer"
     excerpt: '**Date** <br>
     July 6 <br>
@@ -32,8 +32,6 @@ week1:
     url: "/week1/"
     btn_label: "Week 1"
     btn_class: "btn--primary"
-
-week3:
   - title: "Week 3: Northeastern's HPC & Introduction to R - swirl()"
     excerpt: '**Date** <br>
     July 20 <br>
@@ -87,9 +85,7 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 <hr style="border:2px solid gray">
 
 # Outline
-{% include feature_row id="week1" %}
-
-{% include feature_row id="week3" %}
+{% include feature_row id="weeks13" %}
 
 {% include feature_row id="week4" %}
 
