@@ -39,5 +39,24 @@ To complete the challenge after finishing Lesson 3, press Esc to exit swirl().
 
 ### R Challenge #1
 
+1. Assign a value of 7 to a variable called `m`.
 
-<a href="link" target="_blank">Link to solution.</a>
+2. Create a new variable `a` equal to 6 times the value of `m`.
+
+3. Find the square root of `a` and store it as another variable `n`.
+
+4. Create a sequence from 1 to 5 and store is as the variable `g`.
+
+5. Create a sequence from 3 to 15 increasing in increments of 3 and store it as the variable `o`.
+
+6. Combine all five variables into a vector and store them as a new variable called `mango`.
+
+7. Divide `o` by `g` and assign the result to the variable `b`.
+
+8. Use the combine `c()` and repeat `rep()` functions to combine the values of `b`, `a`, and `n` into a vector in the order of the word "banana", and assign it to a new variable called `banana`.
+
+9. Create a vector called `fruit` that combines `mango` and `banana`.
+
+10. Find the length of this new vector `fruit`.
+
+<a href="https://docs.google.com/document/d/1DKzsHI3GC00k1uWt5d45HUv9cU2plCmngVV67nJjyf4/edit?usp=sharing" target="_blank">Link to solution.</a>
