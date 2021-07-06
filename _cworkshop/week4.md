@@ -61,7 +61,8 @@ Average high temp: 39
 Average low temp: 25  
 Average rainy days per month: 12
 
-*Hint 1: Start out by creating one vector for each column.*  
+*Hint 1: Start out by creating one vector for each column.*
+
 *Hint 2: Remember to use quotation marks around character strings!*
 
 [Link to solution.](link){:target="_blank" rel="noopener"}
