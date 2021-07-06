@@ -58,6 +58,16 @@ Average rainy days per month: 12
 
 [Link to solution.](link){:target="_blank" rel="noopener"}
 
+### Intro to plotting
+
+[Link to slides](link){:target="_blank" rel="noopener"}
+
+- load data frame
+- head()
+- $ operator
+- xlab()
+- sub()
+
 ### Group plotting challenge:
 
 [Starbucks/caffeine data]
