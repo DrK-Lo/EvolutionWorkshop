@@ -87,12 +87,12 @@ Tuesdays from 4:30-6:00pm, July 6, 2021 - August 10, 2021
 <hr style="border:2px solid gray">
 
 # Outline
-{% include feature_row id="week1" type="left" %}
+{% include feature_row id="week1" %}
 
-{% include feature_row id="week3" type="left" %}
+{% include feature_row id="week3" %}
 
-{% include feature_row id="week4" type="left" %}
+{% include feature_row id="week4" %}
 
-{% include feature_row id="week5" type="left" %}
+{% include feature_row id="week5" %}
 
-{% include feature_row id="week6" type="left" %}
+{% include feature_row id="week6" %}
