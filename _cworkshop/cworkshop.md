@@ -32,10 +32,18 @@ weeks13:
     url: "/week1/"
     btn_label: "Week 1"
     btn_class: "btn--primary"
+  - title: "Week 2: Learn to code in Scratch"
+    excerpt: '**Date** <br>
+    July 13 <br>
+    **Overview** <br>
+    Put last week's analogy into practice and become familiar with coding basics by learning to code in Scratch.'
+    url: "/week2/"
+    btn_label: "Week 2"
+    btn_class: "btn--primary"
   - title: "Week 3: Northeastern's HPC & Introduction to R - swirl()"
     excerpt: '**Date** <br>
     July 20 <br>
-    **Overview**  <br>
+    **Overview** <br>
     Begin learning the basics of coding in R using the program swirl().'
     url: "/week3/"
     btn_label: "Week 3"
