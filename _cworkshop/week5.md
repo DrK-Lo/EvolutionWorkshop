@@ -16,11 +16,11 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Finish challenge #3 | 10 min | [Link to solution](link){:target="_blank" rel="noopener"} |
-| Intro to plots | 10 min | [Link to slides](link){:target="_blank" rel="noopener"} |
+| Finish challenge #3 | 10 min | [Link to solution](https://docs.google.com/document/d/1fgN75_kFzfvOUi2KBYl_TVfaJqnOUT_E4BbVDwRvPD0){:target="_blank" rel="noopener"} |
+| Intro to plotting in R | 10 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
 | Swirl()  *15:* Base Graphics | 10 min |  |
-| Plotting challenge (group) | 10 min |  |
-| Pair plotting challenge | 20 min |  |
+| COVID data walkthrough | 5 min |  |
+| Pair plotting challenges | 25 min |  |
 
 ### R Challenge #3: Dataframes
 
@@ -60,22 +60,30 @@ Average rainy days per month: 12
 
 ### Intro to plotting
 
-[Link to slides](link){:target="_blank" rel="noopener"}
+[Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"}
 
-- load data frame with data()
-- head()
-- $ operator
-- xlab() & ylab()
-- main() & sub()
+### Plotting challenge:
 
-### Group plotting challenge:
+1) After signing into OOD, download the COVID data we'll be working with using the following line: `download.file("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations-by-age-group.csv", "vaccinations-by-age-group.csv")`.  
+2) Use the function `read.csv()` to read in the data and assign it to a variable name of your choice (e.g. covid_data).  
+3) Inspect the data using the functions `head()`, `tail()`, and `str()`.
 
-[Starbucks/caffeine data]
+#### Plotting challenge #1:
 
-[Link to solution.](link){:target="_blank" rel="noopener"}
+Your challenge: Choose a country from the dataframe, and create a line plot to show how the number of vaccinated people has increased over time.
 
-### Pair plotting challenge:
+*Hint: Filter the dataset for one specific country by running `subset(covid_data, country = "YourChosenCountry")` and assigning it to a new variable name (e.g. covid_data_Egypt).*
 
-[COVID data]
+*Hint: Think about which variable (time or number of vaccinated people) should go on which axis!*
 
-[Link to solution.](link){:target="_blank" rel="noopener"}
+#### Plotting challenge #2:
+
+Filter the *original* dataset by running `subset(covid_data, date = 2021-07-02)` and assigning it to a new variable name (e.g. covid_data_july).  
+
+Your challenge: Make a boxplot to show how the number of vaccinated people varies by age group (across all countries).
+
+#### Plotting challenge #3:
+
+
+
+[Link to solutions.](link){:target="_blank" rel="noopener"}
