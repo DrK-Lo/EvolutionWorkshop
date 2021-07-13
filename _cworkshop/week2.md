@@ -26,10 +26,10 @@ animate:
 | Pair challenge 2 | 15 min | Make your character move around with sound effects |
 | Solutions for challenge 1 and 2 | 10 min | Explore paired solutions |
 
-### Continuing to create your Northeastern account:
+### Claim your Northeastern account:
 
 #### Part 2:
-* Follow the steps in the email you recieve after approval, which are also outlined [here](https://docs.google.com/document/d/1wD4hDvk6pqUQtwJIL9krBtab9MeLmZCjsD_31Y2Or8g/edit){:target="_blank" rel="noopener"}.
+* Follow the steps in the email you recieve after approval, which are also outlined [here](https://docs.google.com/document/d/1wD4hDvk6pqUQtwJIL9krBtab9MeLmZCjsD_31Y2Or8g){:target="_blank" rel="noopener"}.
 
 If you can't find the email:
 * Go to [this link](https://my.northeastern.edu/){:target="_blank" rel="noopener"}.
