@@ -45,17 +45,18 @@ animate:
 * Submit the application.
 
 
-#### Part 2: 
+#### Part 1.5: 
 * Dr. Lotterhos will approve your application after you submit it.
-* Follow the steps in any emails you recieve after approval.
+
+#### Part 2:
+* Follow the steps in the email you recieve after approval, which are also outlined [here](https://docs.google.com/document/d/1wD4hDvk6pqUQtwJIL9krBtab9MeLmZCjsD_31Y2Or8g/edit){:target="_blank" rel="noopener"}.
+
+If you can't find the email:
+* Go to [this link](https://my.northeastern.edu/){:target="_blank" rel="noopener"}.
+* Click "Request access".
+* Click "Activate Account" (under "Faculty, Staff & Sponsored Accounts").
 
 #### Part 3: 
-Download Duo Two Factor Authentication App from the App Store. (If you don't have a smart phone, it's OK! Just let us know.)
-
-#### Part 4: 
-In order to login into Duo with your new Northeastern Account, call Northeastern IT to set up Duo access with them: 617.373.4357.
-
-#### Part 5: 
 Submit a second [form](https://bit.ly/NURC-AccessRequest){:target="_blank" rel="noopener"} to get a sponsored Discovery account in addition to a sponsored NEU ID.
 
 ### Intro to Scratch: Animate a Name!

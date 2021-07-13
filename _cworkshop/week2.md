@@ -20,11 +20,24 @@ animate:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Accounts | 10 min | Continue getting accounts set up |
+| Accounts | 30 min | Continue getting accounts set up |
 | Animate a Character (group challenge) | 10 min | See details below |
 | Pair challenge 1 | 15 min | Get your character to navigate around an object |
 | Pair challenge 2 | 15 min | Make your character move around with sound effects |
 | Solutions for challenge 1 and 2 | 10 min | Explore paired solutions |
+
+### Continuing to create your Northeastern account:
+
+#### Part 2:
+* Follow the steps in the email you recieve after approval, which are also outlined [here](https://docs.google.com/document/d/1wD4hDvk6pqUQtwJIL9krBtab9MeLmZCjsD_31Y2Or8g/edit){:target="_blank" rel="noopener"}.
+
+If you can't find the email:
+* Go to [this link](https://my.northeastern.edu/){:target="_blank" rel="noopener"}.
+* Click "Request access".
+* Click "Activate Account" (under "Faculty, Staff & Sponsored Accounts").
+
+#### Part 3: 
+Submit a second [form](https://bit.ly/NURC-AccessRequest){:target="_blank" rel="noopener"} to get a sponsored Discovery account in addition to a sponsored NEU ID.
 
 ### Animate a Character (group challenge)
 
