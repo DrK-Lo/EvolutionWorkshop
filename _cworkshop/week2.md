@@ -26,6 +26,10 @@ animate:
 | Pair challenge 2 | 15 min | Make your character move around with sound effects |
 | Solutions for challenge 1 and 2 | 10 min | Explore paired solutions |
 
+### Claim your NU Account
+
+[Directions to claim your account](https://docs.google.com/document/d/1wD4hDvk6pqUQtwJIL9krBtab9MeLmZCjsD_31Y2Or8g/edit){:target="_blank" rel="noopener"}
+
 ### Animate a Character (group challenge)
 
 1) Click on the "Animate a Character" challenge on the [Scratch website](https://scratch.mit.edu/projects/editor/?tutorial=all){:target="_blank" rel="noopener"}.  
