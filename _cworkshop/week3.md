@@ -28,11 +28,12 @@ header:
 
 ### Specific instructions for swirl():
 To use swirl(), follow these steps:  
-1) Type `library(swirl, lib.loc="~/R/x86_64-pc-linux-gnu-library/3.6")`.  
-2) Type `swirl()`.  
-3) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".  
-4) Enter `1` again to choose the "R Programming" course.
-5) Enter `1` to choose Lesson 1: Basic Building Blocks.
+1) Type `install.packages("swirl")`.
+2) Type `library(swirl, lib.loc="~/R/x86_64-pc-linux-gnu-library/3.6")`.  
+3) Type `swirl()`.  
+4) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".  
+5) Enter `1` again to choose the "R Programming" course.
+6) Enter `1` to choose Lesson 1: Basic Building Blocks.
 
 When you reach the end of the lesson:  
 1) Enter `1` again to return to the "R Programming" course.  
