@@ -82,8 +82,4 @@ Filter the *original* dataset by running `subset(covid_data, date = 2021-07-02)`
 
 Your challenge: Make a boxplot to show how the number of vaccinated people varies by age group (across all countries).
 
-#### Plotting challenge #3:
-
-
-
 [Link to solutions.](link){:target="_blank" rel="noopener"}
