@@ -21,12 +21,16 @@ header:
 | Review HPC log-in | 5 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"} |
 | Finish Introduction to Swirl() *1:* Basic Building Blocks & *3:* Sequences of Numbers | 10 min |  |
 | Finish R Challenge 1 | 15 min |  |
+
+*If time*
+| Activity | Time | Additional Info |
+| ---- | ---- | ----- |
 | Swirl()  *4:* Vectors & *6:* Subsetting Vectors | 20 min |  |
 | R Challenge 2 | 10 min | |
 
-[Steps to get started with R on the HPC.](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"}
-
 [Link to coding review slides.](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"}
+
+[Steps to get started with R on the HPC.](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"}
 
 ### Specific instructions for swirl():
 To use swirl(), follow these steps:  
@@ -34,14 +38,12 @@ To use swirl(), follow these steps:
 2) Type `library(swirl, lib.loc="~/R/x86_64-pc-linux-gnu-library/3.6")`.  
 3) Type `swirl()`.  
 4) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".  
-5) Enter `1` again to choose the "R Programming" course.
+5) Enter `1` again to choose the "R Programming" course.  
 6) Enter the number to choose your swirl lesson!
 
 When you reach the end of the lesson:  
 1) Enter `1` again to return to the "R Programming" course.  
-2) Enter the number to choose your next swirl lesson.
-
-To complete the challenge after finishing a lesson, press Esc to exit swirl().
+2) Enter the number to choose your next swirl lesson, or enter `0` to exit swirl().
 
 ### R Challenge #1
 

@@ -32,14 +32,14 @@ To use swirl(), follow these steps:
 2) Type `library(swirl, lib.loc="~/R/x86_64-pc-linux-gnu-library/3.6")`.  
 3) Type `swirl()`.  
 4) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".  
-5) Enter `1` again to choose the "R Programming" course.
+5) Enter `1` again to choose the "R Programming" course.  
 6) Enter `1` to choose Lesson 1: Basic Building Blocks.
 
 When you reach the end of the lesson:  
 1) Enter `1` again to return to the "R Programming" course.  
 2) Enter `3` to choose Lesson 3: Sequences of Numbers.
 
-To complete the challenge after finishing Lesson 3, press Esc to exit swirl().
+To complete the challenge after finishing Lesson 3, enter `0` to exit swirl().
 
 ### R Challenge #1
 
