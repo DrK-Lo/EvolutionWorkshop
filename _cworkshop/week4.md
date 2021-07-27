@@ -17,13 +17,16 @@ header:
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Coding Kahoot! | 10 min | |
+| Review HPC log-in | 20 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"} |
+| Review coding terms | 5 min | [Link to slides](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"} |
 | Finish Introduction to Swirl() *1:* Basic Building Blocks & *3:* Sequences of Numbers | 10 min |  |
-| Start or finish R Challenge 1 | 15 min |  |
-| Intro to dataframes | 5 min | [Link to slides](https://docs.google.com/presentation/d/1Lf-NcGFshaDOoHFOOmwZTy5ZqGl_3Ern38Ax-DUddfo){:target="_blank" rel="noopener"} |
+| Finish R Challenge 1 | 15 min |  |
 | Swirl()  *4:* Vectors & *6:* Subsetting Vectors | 20 min |  |
 | R Challenge 2 | 10 min | |
-| Swirl()  *7:* Matrices and Data Frames | 10 min |  |
-| R Challenge 3 | 10 min |  |
+
+[Steps to get started with R on the HPC.](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"}
+
+[Link to coding review slides.](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"}
 
 ### Specific instructions for swirl():
 To use swirl(), follow these steps:  
@@ -64,10 +67,6 @@ To complete the challenge after finishing a lesson, press Esc to exit swirl().
 
 [Link to solution.](https://docs.google.com/document/d/1DKzsHI3GC00k1uWt5d45HUv9cU2plCmngVV67nJjyf4){:target="_blank" rel="noopener"}
 
-### Intro to dataframes
-
-[Link to slides](https://docs.google.com/presentation/d/1Lf-NcGFshaDOoHFOOmwZTy5ZqGl_3Ern38Ax-DUddfo){:target="_blank" rel="noopener"}
-
 ### R Challenge #2: Vectors
 
 To complete the challenge, enter `bye()` while using Swirl to escape the Swirl prompts.
@@ -85,39 +84,3 @@ To complete the challenge, enter `bye()` while using Swirl to escape the Swirl p
 5. Use the `paste()` function to paste a number from 1 to the length of your name in front of each letter in your vector `name`, with the separator (`sep = `) set to a space.
 
 [Link to solution.](https://docs.google.com/document/d/1fgN75_kFzfvOUi2KBYl_TVfaJqnOUT_E4BbVDwRvPD0){:target="_blank" rel="noopener"}
-
-### R Challenge #3: Dataframes
-
-To complete the challenge, enter `bye()` while using Swirl to escape the Swirl prompts.
-
-1) Create a data frame called `weather` with five columns: "season", "months", "high_temp", "low_temp", and "rainy_days". Include the following data:
-
-**Spring**  
-Months: Mar - May  
-Average high temp: 56  
-Average low temp: 41  
-Average rainy days per month: 13
-
-**Summer**  
-Months: Jun - Aug  
-Average high temp: 79  
-Average low temp: 63  
-Average rainy days per month: 11
-
-**Fall**  
-Months: Sep - Nov  
-Average high temp: 61  
-Average low temp: 47  
-Average rainy days per month: 10
-
-**Winter**  
-Months: Dec - Feb  
-Average high temp: 39  
-Average low temp: 25  
-Average rainy days per month: 12
-
-*Hint 1: Start out by creating one vector for each column.*
-
-*Hint 2: Remember to use quotation marks around character strings!*
-
-[Link to solution.](https://docs.google.com/document/d/1r0D-4Fi4AElgUImgSWhgIivutpqSkry6B4rP7SaoFdI){:target="_blank" rel="noopener"}
