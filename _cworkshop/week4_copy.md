@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /week4/
+permalink: /week4_copy/
 title: "Summer 2021 Coding Sessions"
 
 header:
