@@ -17,8 +17,8 @@ header:
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Coding Kahoot! | 10 min | |
-| Review HPC log-in | 5 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"} |
 | Review coding terms | 5 min | [Link to slides](https://docs.google.com/presentation/d/1ghff62Ec9H8CmEPl0MJFSkwLmCjqe86hhH1LLqyBsdw){:target="_blank" rel="noopener"} |
+| Review HPC log-in | 5 min | [Steps to get started with R on the HPC](https://docs.google.com/document/d/1F69niCFTnP_pZbn0_H5rCQPmLOGcw_FVPEJhSaS7-TU){:target="_blank" rel="noopener"} |
 | Finish Introduction to Swirl() *1:* Basic Building Blocks & *3:* Sequences of Numbers | 10 min |  |
 | Finish R Challenge 1 | 15 min |  |
 | Swirl()  *4:* Vectors & *6:* Subsetting Vectors | 20 min |  |
@@ -30,7 +30,7 @@ header:
 
 ### Specific instructions for swirl():
 To use swirl(), follow these steps:  
-1) Type `install.packages("swirl")`.
+1) Type `install.packages("swirl")`.  
 2) Type `library(swirl, lib.loc="~/R/x86_64-pc-linux-gnu-library/3.6")`.  
 3) Type `swirl()`.  
 4) Follow the on-screen instructions. When swirl() asks you to install a course, enter `1` to install "R Programming".  
