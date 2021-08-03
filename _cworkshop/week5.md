@@ -16,9 +16,9 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Intro to plotting in R | 20 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
+| Intro to plotting in R | 15 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
 | Plotting example | 10 min |  |
-| Caffeine data walkthrough | 10 min |  |
+| Caffeine data walkthrough | 5 min |  |
 | Group plotting challenge | 30 min |  |
 
 ### Intro to plotting
@@ -42,3 +42,5 @@ Your challenge:
 *Hint: To filter the dataset for a certain brand, use* `subset(caffeineData, brand == "YourChosenBrand")`.
 
 * Create a plot to show how the amount of caffeine in a cup of _regular_ coffee varies by brand.
+
+* Recreate the first plot, _excluding_ the "decaf" coffee values.
