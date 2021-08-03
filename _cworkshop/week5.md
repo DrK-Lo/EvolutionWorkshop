@@ -12,14 +12,14 @@ header:
 # Week 5: Make a plot in R
 ## August 3, 2021
 
-*Overview:* Build on the previous activities by making plots in swirl(), and then create a plot using external data.
+*Overview:* Build on the previous activities by creating plots using external data.
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Intro to plotting in R | 15 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
+| Intro to plotting in R | 20 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
 | Plotting example | 10 min |  |
-| Caffeine data walkthrough | 5 min |  |
-| Group plotting challenge | 25 min |  |
+| Caffeine data walkthrough | 10 min |  |
+| Group plotting challenge | 30 min |  |
 
 ### Intro to plotting
 
