@@ -27,8 +27,8 @@ header:
 
 ### Plotting challenge:
 
-1) After signing into OOD, download the coffee data we'll be working with using the following line: `download.file("link", "caffeineData.csv")`.  
-2) Use the function `read.csv()` to read in the data and assign it to a variable name of your choice (e.g. caffeineData).  
+1) After signing into OOD, download the coffee data we'll be working with using the following line: `x <- getURL("https://raw.githubusercontent.com/DrK-Lo/EvolutionWorkshop/master/assets/caffeine.csv")`.  
+2) Use the line `caffeineData <- read.csv(text = x)` to read in the data and assign it to a variable name of your choice (e.g. caffeineData).  
 3) Inspect the data using the functions `head()`, `tail()`, and `str()`.
 
 Your challenge:
