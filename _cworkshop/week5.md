@@ -16,8 +16,8 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-| Intro to plotting in R | 10 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
-| Swirl()  *15:* Base Graphics | 10 min |  |
+| Intro to plotting in R | 15 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
+| Plotting example | 10 min |  |
 | Caffeine data walkthrough | 5 min |  |
 | Pair plotting challenges | 25 min |  |
 
@@ -31,8 +31,12 @@ header:
 2) Use the function `read.csv()` to read in the data and assign it to a variable name of your choice (e.g. caffeineData).  
 3) Inspect the data using the functions `head()`, `tail()`, and `str()`.
 
-#### Plotting challenge #1:
+* Create a plot to show how the amount of caffeine in a cup of coffee varies by brand.
 
-Your challenge: Create a boxplot to show how the amount of caffeine in a cup of coffee varies by brand.
+*Hint: Think about which variable (brand or amount of caffeine) should go on which axis!*
 
-*Hint: Think about which variable (time or number of vaccinated people) should go on which axis!*
+#### Bonus plotting challenges:
+
+* Create a plot to show how the amount of caffeine in a cup of coffee _from Starbucks_ varies by coffee style.
+
+* Create a plot to show how the amount of caffeine in a cup of _regular_ coffee varies by brand.
