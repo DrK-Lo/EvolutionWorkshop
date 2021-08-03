@@ -31,12 +31,14 @@ header:
 2) Inspect the data using the functions `head()`, `tail()`, and `str()`.
 
 Your challenge:
-* Create a plot to show how the amount of caffeine in a cup of coffee varies by brand.
+* Create a boxplot to show how the amount of caffeine in a cup of coffee varies by brand.
 
 *Hint: Think about which variable (brand or amount of caffeine) should go on which axis!*
 
 #### Bonus plotting challenges:
 
 * Create a plot to show how the amount of caffeine in a cup of coffee _from Starbucks_ varies by coffee style.
+
+*Hint: To filter the dataset for a certain brand, use `subset(caffeineData, brand == "YourChosenBrand")
 
 * Create a plot to show how the amount of caffeine in a cup of _regular_ coffee varies by brand.
