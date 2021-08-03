@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header_beachSurvey.png
 ---
 
-# Week 5: Make a plot with R - swirl()
+# Week 5: Make a plot in R
 ## August 3, 2021
 
 *Overview:* Build on the previous activities by making plots in swirl(), and then create a plot using external data.
@@ -19,7 +19,7 @@ header:
 | Intro to plotting in R | 15 min | [Link to slides](https://docs.google.com/presentation/d/1gtRgRqaC8f2YwP_maVQE8wsT4thj8i19127gA32Z2tE){:target="_blank" rel="noopener"} |
 | Plotting example | 10 min |  |
 | Caffeine data walkthrough | 5 min |  |
-| Pair plotting challenges | 25 min |  |
+| Group plotting challenge | 25 min |  |
 
 ### Intro to plotting
 
@@ -31,6 +31,7 @@ header:
 2) Use the function `read.csv()` to read in the data and assign it to a variable name of your choice (e.g. caffeineData).  
 3) Inspect the data using the functions `head()`, `tail()`, and `str()`.
 
+Your challenge:
 * Create a plot to show how the amount of caffeine in a cup of coffee varies by brand.
 
 *Hint: Think about which variable (brand or amount of caffeine) should go on which axis!*
