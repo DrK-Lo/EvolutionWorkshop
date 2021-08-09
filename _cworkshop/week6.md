@@ -16,13 +16,14 @@ header:
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
-|  |  |  |
+| Exit survey | 10 mins | [Link to exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"} |
 
 * Kahoot plotting review (if I has time)
 
 [Link to slides](https://docs.google.com/presentation/d/19j_1ein0-haGMB8PUNtsdW9iVXfln0dwKxbg1ZGjoOY){:target="_blank" rel="noopener"}
 * resume breakout rooms: [template](https://docs.google.com/document/d/1fGI4gl-ivU_oO_i7cjTvXNYqAAIT5LhWBsCP0Uc4p3w){:target="_blank" rel="noopener"}
-* furthering education: online course; R is free to download
-* [exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"}
+* furthering education: online courses (*Dylan add links); R is free to download
+
+[Link to exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"}
 
 ### Links & more info
