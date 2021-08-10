@@ -70,7 +70,7 @@ weeks46:
     excerpt: '**Date** <br>
     August 10 <br>
     **Overview**  <br>
-    Continue building plots using the data from last week, learn how to download and use R on your own, and discuss career opportunities involving data science and coding.'
+    Learn how to download and use R on your own, make a resume, and discuss career opportunities involving data science and coding.'
     url: "/week6/"
     btn_label: "Week 6"
     btn_class: "btn--primary"
