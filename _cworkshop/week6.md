@@ -17,10 +17,10 @@ header:
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
 | Coding review | 10 mins |  |
-| End-products of coding | 20 mins |  |
-| College resources | 10 mins | [Link to folder](https://drive.google.com/drive/folders/1zP38OoAy-HpiIj1zO4dCe9r3avS3jXLb){:target="_blank" rel="noopener"} |
+| End-products of coding | 10 mins |  |
+| College resources | 15 mins | [Link to folder](https://drive.google.com/drive/folders/1zP38OoAy-HpiIj1zO4dCe9r3avS3jXLb){:target="_blank" rel="noopener"} |
 | Build a resume! | 30 mins | [Link to template](https://docs.google.com/document/d/1fGI4gl-ivU_oO_i7cjTvXNYqAAIT5LhWBsCP0Uc4p3w){:target="_blank" rel="noopener"} |
-| Exit survey | 10 mins | [Link to exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"} |
+| Exit survey | 15 mins | [Link to exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"} |
 
 ### Links & more info
 
