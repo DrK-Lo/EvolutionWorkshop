@@ -18,7 +18,7 @@ header:
 | ---- | ---- | ----- |
 | Coding review | 10 mins |  |
 | End-products of coding | 20 mins |  |
-| College resources | 10 mins |  |
+| College resources | 10 mins | [Link to folder](https://drive.google.com/drive/folders/1zP38OoAy-HpiIj1zO4dCe9r3avS3jXLb){:target="_blank" rel="noopener"} |
 | Build a resume! | 30 mins |  |
 | Exit survey | 10 mins | [Link to exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"} |
 
