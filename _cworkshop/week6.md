@@ -12,7 +12,7 @@ header:
 # Week 6: Into the future!
 ## August 10, 2021
 
-*Overview:* Continue building plots using the data from last week, learn how to download and use R on your own, and discuss career opportunities involving data science and coding.
+*Overview:* Learn how to download and use R on your own, make a resume, and discuss career opportunities involving data science and coding.
 
 | Activity | Time | Additional Info |
 | ---- | ---- | ----- |
