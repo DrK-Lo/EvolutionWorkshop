@@ -31,7 +31,8 @@ header:
 [Link to resume template](https://docs.google.com/document/d/1fGI4gl-ivU_oO_i7cjTvXNYqAAIT5LhWBsCP0Uc4p3w){:target="_blank" rel="noopener"}
 
 Keep learning to code!
-* R is free to download!
-* [Data Carpentry's free lessons] (https://datacarpentry.org/R-ecology-lesson/index.html)
+* R is free to download! [Link](http://lib.stat.cmu.edu/R/CRAN/){:target="_blank" rel="noopener"}
+* Download [RStudio](https://www.rstudio.com/products/rstudio/download/#download){:target="_blank" rel="noopener"}
+* [Data Carpentry's free lessons] (https://datacarpentry.org/R-ecology-lesson/index.html){:target="_blank" rel="noopener"}
 
 [Link to exit survey](https://forms.gle/nFPrED7A7Gwczib26){:target="_blank" rel="noopener"}
