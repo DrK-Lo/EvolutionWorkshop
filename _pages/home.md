@@ -9,7 +9,7 @@ header:
   # - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  An ecological and evolutionary themed website hosted by Norteastern University.
+  An ecological and evolutionary themed website hosted by the Lotterhos Lab at Norteastern University.
 feature_row:
   - image_path: /assets/images/activities/nonGeneticInheritance_thumb.png
     alt: "Activities"
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/workshop/workshop_thumb.png
     alt: "The Scientists"
     title: "The Scientists"
-    excerpt: "Learn more about the amazing scientist that made this possible."
+    excerpt: "Learn more about the amazing scientists that made this possible."
     url: "/scientists/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
