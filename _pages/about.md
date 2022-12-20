@@ -16,9 +16,9 @@ gallery:
 ---
 
 
-The **Evolution in Changing Seas web page** offers innovative and unique education resources curated by scientists from the [Northeastern Marine Science Center](https://cos.northeastern.edu/marinescience/) and the lab of Dr. Katie Lotterhos ([Lab page](https://sites.google.com/site/katielotterhos/home?authuser=0)). The goal of this resource is to explore fundamental ecological and evolutionary concepts through the lens of marine systems and global climate change in a framework that is suited for K-12 education.
+The **Eco-Evolution Workshop** offers innovative and unique education resources curated by scientists from the [Northeastern Marine Science Center](https://cos.northeastern.edu/marinescience/) and the lab of Dr. Katie Lotterhos ([Lab page](https://sites.google.com/site/katielotterhos/home?authuser=0)). The goal of this resource is to explore fundamental ecological and evolutionary concepts through the lens of marine systems and global climate change in a framework that is suited for K-12 education.
 
-In addition, this website also serves as a supplemental resource for our annual workshop for high school girls focused on evolution in changing seas.
+In addition, this website also serves as a supplemental resource for our annual workshop for high school girls and non-gender conforming youth focused on evolution and ecology in changing seas.
 
 ### Our Mission 
 
